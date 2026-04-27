@@ -1,0 +1,12 @@
+{
+  "lang_name": "中文",
+  "lang_dir": "ltr",
+  "nav": { "home": "首页", "about": "关于我们", "exhibitions": "展览", "artifacts": "文物", "visit": "参观", "events": "活动", "contact": "联系我们" },
+  "hero": { "badge": "成立于1902年", "title": "大博物馆", "subtitle": "穿越历史的旅程", "description": "通过我们世界一流的文物、艺术品和互动展览，探索数千年的人类文明。", "cta_primary": "立即探索", "cta_secondary": "规划您的参观", "scroll_text": "向下滚动探索" },
+  "about": { "badge": "我们的故事", "title": "百年传承", "subtitle": "致力于保护和传承丰富的人类历史遗产。", "text1": "大博物馆成立于一个多世纪前，是世界上研究古代文明的顶尖机构之一。我们的藏品跨越五大洲和数千年的人类成就。", "text2": "我们致力于通过创新展览和教育项目，让历史触手可及。", "learn_more": "了解更多", "visitors": "200万+", "visitors_label": "年度访客", "artifacts_count": "5万+", "artifacts_label": "文物", "years": "120+", "years_label": "年历史", "exhibitions_count": "200+", "exhibitions_label": "展览" },
+  "exhibitions": { "badge": "展览馆", "title": "当前展览", "subtitle": "探索我们精心策划的来自全球各地的藏品。", "filter_all": "全部", "filter_ancient": "古代世界", "filter_modern": "现代时期", "filter_islamic": "伊斯兰艺术", "filter_egypt": "古埃及", "view_all": "查看所有展览" },
+  "artifacts": { "badge": "藏品", "title": "精选文物", "subtitle": "每件藏品都讲述着人类智慧和文化遗产的故事。", "explore_btn": "探索完整藏品" },
+  "visit": { "badge": "规划参观", "title": "来探索吧", "subtitle": "参观前您需要了解的一切。", "hours_title": "开放时间", "monday_friday": "周一至周五", "monday_friday_hours": "上午9:00 – 下午6:00", "saturday_sunday": "周六至周日", "saturday_sunday_hours": "上午10:00 – 下午8:00", "closed": "休馆日", "closed_days": "法定节假日", "admission_title": "门票", "adults": "成人", "adults_price": "¥100", "students": "学生", "students_price": "¥50", "children": "儿童（12岁以下）", "children_price": "免费", "seniors": "老人（65岁+）", "seniors_price": "¥60", "location_title": "地址", "address": "埃及开罗文化区博物馆大道123号", "get_directions": "获取路线" },
+  "events": { "badge": "即将举办", "title": "活动与项目", "subtitle": "全年特别展览、讲座和教育项目，欢迎参加。", "register": "立即报名", "free_label": "免费", "e1_date": "5月15日", "e1_title": "古埃及夜间游览", "e1_desc": "夜幕降临后，感受博物馆的魔力。", "e1_type": "游览", "e1_price": "¥200", "e2_date": "5月22日", "e2_title": "考古学讲座系列", "e2_desc": "顶尖专家讨论最新发现。", "e2_type": "讲座", "e2_price": "免费", "e3_date": "6月5日", "e3_title": "家庭历史日", "e3_desc": "适合各年龄段的互动活动。", "e3_type": "家庭", "e3_price": "¥80", "e4_date": "6月18日", "e4_title": "摄影展开幕", "e4_desc": "当代艺术家对古代主题的现代诠释。", "e4_type": "展览", "e4_price": "免费" },
+  "footer": { "description": "保护过去，启迪未来。大博物馆庆祝人类跨越所有文明的成就。", "quick_links": "快速链接", "newsletter_title": "保持更新", "newsletter_desc": "订阅我们的通讯，获取展览和活动的独家更新。", "newsletter_placeholder": "输入您的电子邮件", "newsletter_btn": "订阅", "rights": "© 2025 大博物馆。保留所有权利。", "privacy": "隐私政策", "terms": "使用条款", "accessibility": "无障碍服务" }
+}

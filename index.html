@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Triumph Museum | متحف النصر</title>
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <!-- Loading Screen -->
+    <div class="loader" style="position: fixed; top: 0; left: 0; width: 100%; height: 100vh; background: #fff; z-index: 9999; display: flex; justify-content: center; align-items: center; transition: opacity 0.8s ease;">
+        <div class="loader-content" style="text-align: center; transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);">
+            <img src="website_logo.png" alt="The Grand Egyptian Museum" class="loader-img">
+            <h1 class="loader-name">Triumph Museum</h1>
+            <div class="loader-progress" style="width: 200px; height: 2px; background: #eee; margin: 0 auto;">
+                <div class="loader-bar" style="width: 0%; height: 100%; background: #c69c4f; transition: width 0.3s ease;"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="container nav-container">
+            <a href="#" class="logo">
+                <img src="website_logo.png" alt="Logo">
+            </a>
+
+            <div class="nav-links">
+                <a href="#home" class="nav-link active" data-i18n="nav.home">الرئيسية</a>
+                <a href="#hologram" class="nav-link" data-i18n="nav.hologram">رحلة الهولوجرام</a>
+                <a href="#presentation" class="nav-link" data-i18n="nav.presentation">العرض المرئي</a>
+                <a href="#museum" class="nav-link" data-i18n="nav.museum">غرف التاريخ</a>
+                <a href="#contact" class="nav-link" data-i18n="nav.contact">تواصل معنا</a>
+                <a href="#tickets" class="nav-link" data-i18n="nav.tickets">احجز تذكرتك</a>
+            </div>
+
+            <div class="lang-switcher">
+                <button class="lang-btn">
+                    <span class="current-lang">AR</span>
+                    <i class="fas fa-chevron-down" style="font-size: 0.8em;"></i>
+                </button>
+                <div class="lang-dropdown">
+                    <button class="lang-option" data-lang="ar">العربية</button>
+                    <button class="lang-option" data-lang="en">English</button>
+                    <button class="lang-option" data-lang="fr">Français</button>
+                    <button class="lang-option" data-lang="de">Deutsch</button>
+                    <button class="lang-option" data-lang="es">Español</button>
+                    <button class="lang-option" data-lang="it">Italiano</button>
+                    <button class="lang-option" data-lang="zh">中文</button>
+                    <button class="lang-option" data-lang="ja">日本語</button>
+                    <button class="lang-option" data-lang="ru">Русский</button>
+                    <button class="lang-option" data-lang="tr">Türkçe</button>
+                </div>
+                <button class="mobile-menu-btn">
+                    <i class="fas fa-bars"></i>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header id="home" class="hero">
+        <div class="container">
+            <div class="hero-content reveal">
+                <h1 class="hero-title" data-i18n="hero.title">Triumph Museum</h1>
+                <p class="hero-subtitle" data-i18n="hero.subtitle">رحلة عبر 7000 سنة من التاريخ</p>
+                <p class="hero-desc" data-i18n="hero.description">اكتشف أعظم تحف الحضارة المصرية القديمة في أكبر متحف أثري في العالم.</p>
+                <a href="#tickets" class="btn btn-primary" style="margin-top: 1rem;">
+                    <span data-i18n="hero.cta">ابدأ رحلتك الآن</span> <i class="fas fa-arrow-left"></i>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Info Bar -->
+    <section class="info-bar container">
+        <div class="info-bar-inner reveal delay-1">
+            <div class="info-item">
+                <i class="fas fa-clock info-icon"></i>
+                <div class="info-text">
+                    <h4 data-i18n="info_bar.open_title">مفتوح يومياً</h4>
+                    <p data-i18n="info_bar.open_desc">9:00 صباحاً – 6:00 مساءً</p>
+                </div>
+            </div>
+            <div class="info-item">
+                <i class="fas fa-microchip info-icon"></i>
+                <div class="info-text">
+                    <h4 data-i18n="info_bar.hologram_title">تجربة هولوجرام تفاعلية</h4>
+                    <p data-i18n="info_bar.hologram_desc">12 غرفة عبر 7000 سنة</p>
+                </div>
+            </div>
+            <div class="info-item">
+                <i class="fas fa-history info-icon"></i>
+                <div class="info-text">
+                    <h4 data-i18n="info_bar.artifacts_title">أكثر من 100,000</h4>
+                    <p data-i18n="info_bar.artifacts_desc">قطعة أثرية فريدة</p>
+                </div>
+            </div>
+            <div class="info-item">
+                <i class="fas fa-landmark info-icon"></i>
+                <div class="info-text">
+                    <h4 data-i18n="info_bar.museum_title">أكبر متحف أثري في العالم</h4>
+                    <p data-i18n="info_bar.museum_desc">مساحة 500,000 م²</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Panorama Banner Section -->
+    <section id="panorama" class="reveal">
+        <div class="panorama-section">
+            <img src="e5f71224-e499-482c-8a43-dabdc960ebed.png" alt="Museum Panorama" class="panorama-img">
+        </div>
+    </section>
+
+    <!-- Hologram Section -->
+    <section id="hologram" class="container reveal">
+        <div class="hologram-section">
+            <div class="hologram-content">
+                <h2 data-i18n="hologram.title">الهولوجرام التاريخي</h2>
+                <h3 data-i18n="hologram.subtitle">استكشف 13 غرفة تفاعلية</h3>
+                <p data-i18n="hologram.description">تقنية الهولوجرام تنقلك في رحلة عبر الزمن، تعيش فيها فصول تاريخ الجيش المصري من التأسيس وحتى العصر الحديث.</p>
+                <div>
+                    <a href="#" class="btn" style="background: var(--primary-gold); color: white;">
+                        <span data-i18n="hologram.cta">استكشف الغرف</span> <i class="fas fa-arrow-left"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="hologram-visual">
+                <img src="images_as_hologram.png" alt="Hologram Rooms" class="clickable-image" id="hologram-image">
+            </div>
+        </div>
+    </section>
+
+    <!-- Video Presentation Section -->
+    <section id="presentation" class="reveal" style="padding: 4rem 0 0 0;">
+        <div class="video-header-blue">
+            <div class="container">
+                <h2 class="section-title-center" data-i18n="presentation.title" style="color: white; margin-bottom: 1rem;">العرض المرئي للمتحف</h2>
+                <p class="section-subtitle-center" data-i18n="presentation.subtitle" style="color: #cbd5e1; margin-bottom: 0;">شاهد عظمة التاريخ المصري في عرض سينمائي مذهل</p>
+            </div>
+        </div>
+        <div class="container" style="padding-bottom: 4rem;">
+            <div class="video-container">
+                <video controls poster="hero_image_section.png" class="museum-video">
+                    <source src="Museum-video.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+        </div>
+    </section>
+
+    <!-- Discover Museum (Gallery) -->
+    <section id="museum">
+        <div class="gallery-header-bg section-padding">
+            <div class="container">
+                <h2 class="section-title-center reveal" data-i18n="gallery.title">رحلة عبر التاريخ غرف المتحف</h2>
+                <p class="section-subtitle-center reveal" data-i18n="gallery.intro">نبدأ رحلتنا داخل المتحف… حيث كل غرفة بتحكي فصل من تاريخ الجيش المصري عبر سبعة آلاف سنة.</p>
+            </div>
+        </div>
+        
+        <div class="container section-padding" style="padding-top: 0;">
+            <div class="gallery-grid">
+            <!-- Room 1 -->
+            <div class="gallery-card reveal" data-room="1">
+                <div class="gallery-img-wrapper">
+                    <img src="img-02.jpeg" alt="Room 1" class="gallery-img">
+                </div>
+                <div class="gallery-info">
+                    <h4 data-i18n="gallery.room1_title">الغرفة الأولى: عصر التأسيس</h4>
+                    <p data-i18n="gallery.room1_desc">شاهد ولادة أول جيش منظم في التاريخ تحت قيادة الملك نعرمر.</p>
+                </div>
+            </div>
+            
+            <!-- Room 2 -->
+            <div class="gallery-card reveal delay-1" data-room="2">
+                <div class="gallery-img-wrapper">
+                    <img src="img-03.jpeg" alt="Room 2" class="gallery-img">
+                </div>
+                <div class="gallery-info">
+                    <h4 data-i18n="gallery.room2_title">الغرفة الثانية: الدولة القديمة</h4>
+                    <p data-i18n="gallery.room2_desc">جيش بناة الأهرامات وحماة الحدود والبعثات.</p>
+                </div>
+            </div>
+
+            <!-- Room 3 -->
+            <div class="gallery-card reveal delay-2" data-room="3">
+                <div class="gallery-img-wrapper">
+                    <img src="img-04.jpeg" alt="Room 3" class="gallery-img">
+                </div>
+                <div class="gallery-info">
+                    <h4 data-i18n="gallery.room3_title">الغرفة الثالثة: الدولة الوسطى</h4>
+                    <p data-i18n="gallery.room3_desc">عصر الهندسة العسكرية وبناء القلاع الحصينة.</p>
+                </div>
+            </div>
+
+            <!-- Room 4 -->
+            <div class="gallery-card reveal" data-room="4">
+                <div class="gallery-img-wrapper">
+                    <img src="img-05.jpeg" alt="Room 4" class="gallery-img">
+                </div>
+                <div class="gallery-info">
+                    <h4 data-i18n="gallery.room4_title">الغرفة الرابعة: الدولة الحديثة</h4>
+                    <p data-i18n="gallery.room4_desc">العصر الذهبي وولادة أول إمبراطورية في التاريخ.</p>
+                </div>
+            </div>
+
+            <!-- Room 5 -->
+            <div class="gallery-card reveal delay-1" data-room="5">
+                <div class="gallery-img-wrapper">
+                    <img src="img-06.jpeg" alt="Room 5" class="gallery-img">
+                </div>
+                <div class="gallery-info">
+                    <h4 data-i18n="gallery.room5_title">الغرفة الخامسة: العصر المتأخر</h4>
+                    <p data-i18n="gallery.room5_desc">الدفاع ضد القوى الكبرى والتهديدات البحرية.</p>
+                </div>
+            </div>
+
+            <!-- Room 6 -->
+            <div class="gallery-card reveal delay-2" data-room="6">
+                <div class="gallery-img-wrapper">
+                    <img src="img-07.jpeg" alt="Room 6" class="gallery-img">
+                </div>
+                <div class="gallery-info">
+                    <h4 data-i18n="gallery.room6_title">الغرفة السادسة: العصر اليوناني والروماني</h4>
+                    <p data-i18n="gallery.room6_desc">تأثير الفيلق المقدوني والكتائب الرومانية المتراصة.</p>
+                </div>
+            </div>
+
+            <!-- Room 7 -->
+            <div class="gallery-card reveal" data-room="7">
+                <div class="gallery-img-wrapper">
+                    <img src="img-08.jpeg" alt="Room 7" class="gallery-img">
+                </div>
+                <div class="gallery-info">
+                    <h4 data-i18n="gallery.room7_title">الغرفة السابعة: العصر الإسلامي</h4>
+                    <p data-i18n="gallery.room7_desc">الفرسان الخفاف وتطور العمارة الدفاعية والقلاع.</p>
+                </div>
+            </div>
+
+            <!-- Room 8 -->
+            <div class="gallery-card reveal delay-1" data-room="8">
+                <div class="gallery-img-wrapper">
+                    <img src="img-09.jpeg" alt="Room 8" class="gallery-img">
+                </div>
+                <div class="gallery-info">
+                    <h4 data-i18n="gallery.room8_title">الغرفة الثامنة: عصر المماليك</h4>
+                    <p data-i18n="gallery.room8_desc">فرسان الشرق الذين هزموا المغول والصليبيين.</p>
+                </div>
+            </div>
+
+            <!-- Room 9 -->
+            <div class="gallery-card reveal delay-2" data-room="9">
+                <div class="gallery-img-wrapper">
+                    <img src="artifacts-1.jpeg" alt="Room 9" class="gallery-img">
+                </div>
+                <div class="gallery-info">
+                    <h4 data-i18n="gallery.room9_title">الغرفة التاسعة: العصر العثماني</h4>
+                    <p data-i18n="gallery.room9_desc">عصر البارود والمدافع البرونزية الضخمة.</p>
+                </div>
+            </div>
+
+            <!-- Room 10 -->
+            <div class="gallery-card reveal" data-room="10">
+                <div class="gallery-img-wrapper">
+                    <img src="artifacts-2.jpeg" alt="Room 10" class="gallery-img">
+                </div>
+                <div class="gallery-info">
+                    <h4 data-i18n="gallery.room10_title">الغرفة العاشرة: عصر محمد علي</h4>
+                    <p data-i18n="gallery.room10_desc">بناء الجيش المصري الحديث على الطراز الأوروبي.</p>
+                </div>
+            </div>
+
+            <!-- Room 11 -->
+            <div class="gallery-card reveal delay-1" data-room="11">
+                <div class="gallery-img-wrapper">
+                    <img src="artifacts-4.jpeg" alt="Room 11" class="gallery-img">
+                </div>
+                <div class="gallery-info">
+                    <h4 data-i18n="gallery.room11_title">الغرفة 11: العصر الجمهوري</h4>
+                    <p data-i18n="gallery.room11_desc">من ثورة 1952 وحتى ملحمة عبور أكتوبر 1973.</p>
+                </div>
+            </div>
+
+            <!-- Room 12 -->
+            <div class="gallery-card reveal delay-2" data-room="12">
+                <div class="gallery-img-wrapper">
+                    <img src="artifacts-5.jpeg" alt="Room 12" class="gallery-img">
+                </div>
+                <div class="gallery-info">
+                    <h4 data-i18n="gallery.room12_title">الغرفة 12: المقتنيات الشخصية</h4>
+                    <p data-i18n="gallery.room12_desc">كنوز ومقتنيات قادة مصر العظماء التي شهدت التاريخ.</p>
+                </div>
+            </div>
+
+            <!-- Room 13 -->
+            <div class="gallery-card reveal" data-room="13">
+                <div class="gallery-img-wrapper">
+                    <img src="artifacts-6.jpeg" alt="Room 13" class="gallery-img">
+                </div>
+                <div class="gallery-info">
+                    <h4 data-i18n="gallery.room13_title">الغرفة 13: منطقة الأطفال</h4>
+                    <p data-i18n="gallery.room13_desc">غرس قيم الولاء والانتماء من خلال اللعب التفاعلي.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="gallery-conclusion reveal" style="text-align: center; margin-top: 4rem; padding: 2rem; background: #fdfbf7; border-radius: var(--border-radius); border: 1px dashed var(--primary-gold);">
+            <p data-i18n="gallery.conclusion" style="font-size: 1.2rem; color: var(--text-dark); font-weight: bold;">ده تاريخ كامل… حضارة… وبطولات… وجيش حافظ على مصر عبر سبعة آلاف سنة.</p>
+        </div>
+    </div>
+    </section>
+
+    <!-- Booking Section -->
+    <section id="tickets" class="container section-padding" style="background: #fdfbf7; border-radius: 12px; padding: 3rem;">
+        <div style="text-align: center; margin-bottom: 2rem;">
+            <h2 class="section-title-center" style="margin-bottom: 0.5rem;" data-i18n="booking.title">احجز تذكرتك الآن</h2>
+            <p style="color: var(--text-muted);" data-i18n="booking.subtitle">اختر التاريخ ونوع التذكرة وابدأ رحلتك</p>
+        </div>
+
+        <div class="booking-section">
+            <div class="booking-card reveal">
+                <div class="booking-left">
+                    <div class="booking-form-content">
+                        <div class="booking-inputs">
+                            <div class="input-field">
+                                <i class="far fa-calendar-alt"></i>
+                                <input type="text" data-i18n="booking.date" placeholder="اختر التاريخ" readonly>
+                            </div>
+                            <div class="input-field">
+                                <i class="fas fa-chevron-down"></i>
+                                <select data-i18n="booking.type">
+                                    <option value="" data-i18n="booking.type">نوع التذكرة</option>
+                                    <option value="general" data-i18n="booking.p1_name">تذكرة عامة</option>
+                                    <option value="student" data-i18n="booking.p2_name">طلاب</option>
+                                    <option value="child" data-i18n="booking.p3_name">أطفال (6-12 سنة)</option>
+                                    <option value="egyptian" data-i18n="booking.p4_name">مصري</option>
+                                    <option value="family" data-i18n="booking.p5_name">عائلة (4 أفراد)</option>
+                                </select>
+                            </div>
+                            <div class="input-field">
+                                <i class="fas fa-chevron-down"></i>
+                                <input type="number" data-i18n="booking.quantity" placeholder="عدد التذاكر">
+                            </div>
+                            <button class="booking-main-btn">
+                                <span data-i18n="booking.cta">احجز الآن</span>
+                                <i class="fas fa-arrow-left"></i>
+                            </button>
+                        </div>
+
+                        <div class="booking-price-details">
+                            <div class="price-row">
+                                <span data-i18n="booking.p1_name">تذكرة عامة</span>
+                                <span class="price-tag" data-i18n="booking.p1_price">EGP 600</span>
+                            </div>
+                            <div class="price-row">
+                                <span data-i18n="booking.p2_name">طلاب</span>
+                                <span class="price-tag" data-i18n="booking.p2_price">EGP 300</span>
+                            </div>
+                            <div class="price-row">
+                                <span data-i18n="booking.p3_name">أطفال (6-12 سنة)</span>
+                                <span class="price-tag" data-i18n="booking.p3_price">EGP 200</span>
+                            </div>
+                            <div class="price-row">
+                                <span data-i18n="booking.p4_name">مصري</span>
+                                <span class="price-tag" data-i18n="booking.p4_price">EGP 200</span>
+                            </div>
+                            <div class="price-row">
+                                <span data-i18n="booking.p5_name">عائلة (4 أفراد)</span>
+                                <span class="price-tag" data-i18n="booking.p5_price">EGP 1500</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section-padding" style="background: white;">
+        <div class="container">
+            <div style="text-align: center; margin-bottom: 4rem;">
+                <h2 class="section-title-center" data-i18n="contact.title">تواصل معنا</h2>
+                <p class="section-subtitle-center" data-i18n="contact.subtitle">يسعدنا دائماً استقبال استفساراتكم واقتراحاتكم</p>
+            </div>
+
+            <div class="contact-grid">
+                <div class="contact-info-card reveal">
+                    <h3 data-i18n="contact.info_title">معلومات الاتصال</h3>
+                    
+                    <div class="contact-item">
+                        <div class="contact-icon"><i class="fas fa-map-marker-alt"></i></div>
+                        <div class="contact-text">
+                            <h4 data-i18n="contact.address_title">العنوان</h4>
+                            <p data-i18n="contact.address_text">ميدان الرماية، طريق القاهرة الإسكندرية الصحراوي، الجيزة، مصر.</p>
+                        </div>
+                    </div>
+
+                    <div class="contact-item">
+                        <div class="contact-icon"><i class="fas fa-phone-alt"></i></div>
+                        <div class="contact-text">
+                            <h4 data-i18n="contact.phone_title">الهاتف</h4>
+                            <p dir="ltr">+20 2 1234 5678</p>
+                        </div>
+                    </div>
+
+                    <div class="contact-item">
+                        <div class="contact-icon"><i class="fas fa-envelope"></i></div>
+                        <div class="contact-text">
+                            <h4 data-i18n="contact.email_title">البريد الإلكتروني</h4>
+                            <p>info@triumfmuseum.eg</p>
+                        </div>
+                    </div>
+
+                    <div class="social-links" style="margin-top: 1.5rem; display: flex; gap: 1rem;">
+                        <a href="https://www.facebook.com/share/17ceNaGKzy/" target="_blank" style="width: 40px; height: 40px; background: #fdfbf7; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: var(--primary-gold); border: 1px solid rgba(198, 156, 79, 0.2);"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#" style="width: 40px; height: 40px; background: #fdfbf7; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: var(--primary-gold); border: 1px solid rgba(198, 156, 79, 0.2);"><i class="fab fa-twitter"></i></a>
+                        <a href="#" style="width: 40px; height: 40px; background: #fdfbf7; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: var(--primary-gold); border: 1px solid rgba(198, 156, 79, 0.2);"><i class="fab fa-instagram"></i></a>
+                        <a href="#" style="width: 40px; height: 40px; background: #fdfbf7; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: var(--primary-gold); border: 1px solid rgba(198, 156, 79, 0.2);"><i class="fab fa-youtube"></i></a>
+                    </div>
+                </div>
+
+                <div class="contact-form-container reveal delay-1">
+                    <form class="contact-form" onsubmit="event.preventDefault(); alert('تم إرسال رسالتك بنجاح!');">
+                        <div class="form-row" style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+                            <div class="form-group">
+                                <label data-i18n="contact.name">الاسم بالكامل</label>
+                                <input type="text" data-i18n="contact.name" placeholder="أدخل اسمك">
+                            </div>
+                            <div class="form-group">
+                                <label data-i18n="contact.email">البريد الإلكتروني</label>
+                                <input type="email" data-i18n="contact.email" placeholder="mail@example.com">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label data-i18n="contact.subject">الموضوع</label>
+                            <input type="text" data-i18n="contact.subject" placeholder="كيف يمكننا مساعدتك؟">
+                        </div>
+                        <div class="form-group">
+                            <label data-i18n="contact.message">رسالتك</label>
+                            <textarea rows="3" data-i18n="contact.message" placeholder="اكتب رسالتك هنا..."></textarea>
+                        </div>
+                        <button type="submit" class="booking-main-btn" style="width: 100%;">
+                            <span data-i18n="contact.send">إرسال الرسالة</span>
+                            <i class="fas fa-paper-plane"></i>
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer Features -->
+    <footer class="container">
+        <div class="features-bar reveal">
+            <div class="feature-item">
+                <div class="feature-icon"><i class="fas fa-wheelchair"></i></div>
+                <h5 data-i18n="footer.f5_title">سهولة الوصول</h5>
+                <p data-i18n="footer.f5_desc">مرافق وخدمات لذوي الهمم</p>
+            </div>
+            <div class="feature-item">
+                <div class="feature-icon"><i class="fas fa-user-tie"></i></div>
+                <h5 data-i18n="footer.f4_title">مرشدين سياحيين</h5>
+                <p data-i18n="footer.f4_desc">تجربة غنية بالمعلومات</p>
+            </div>
+            <div class="feature-item">
+                <div class="feature-icon"><i class="fas fa-gift"></i></div>
+                <h5 data-i18n="footer.f3_title">متجر هدايا</h5>
+                <p data-i18n="footer.f3_desc">تذكارات مستوحاة من الحضارة</p>
+            </div>
+            <div class="feature-item">
+                <div class="feature-icon"><i class="fas fa-utensils"></i></div>
+                <h5 data-i18n="footer.f2_title">مطاعم ومقاهي</h5>
+                <p data-i18n="footer.f2_desc">تجربة طعام مميزة</p>
+            </div>
+            <div class="feature-item">
+                <div class="feature-icon"><i class="fas fa-shield-alt"></i></div>
+                <h5 data-i18n="footer.f1_title">أمان تام</h5>
+                <p data-i18n="footer.f1_desc">أعلى معايير الأمان</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Lightbox Modal -->
+    <div id="image-modal" class="modal">
+        <span class="close-modal" id="close-modal">&times;</span>
+        <img class="modal-content" id="expanded-image">
+    </div>
+
+    <!-- Room Details Modal -->
+    <div id="room-modal" class="modal">
+        <div class="room-modal-container">
+            <span class="close-modal" id="close-room-modal">&times;</span>
+            <div class="room-modal-content">
+                <div class="room-modal-image">
+                    <img id="room-modal-img" src="" alt="">
+                </div>
+                <div class="room-modal-info">
+                    <h2 id="room-modal-title"></h2>
+                    <div class="room-modal-details" id="room-modal-desc"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="js/translations.js"></script>
+    <script src="js/main.js"></script>
+    <script>
+        // Lightbox functionality
+        const modal = document.getElementById("image-modal");
+        const img = document.getElementById("hologram-image");
+        const modalImg = document.getElementById("expanded-image");
+        const span = document.getElementById("close-modal");
+
+        if(img && modal) {
+            img.onclick = function(){
+                modal.style.display = "block";
+                modalImg.src = this.src;
+                setTimeout(() => modal.classList.add("active"), 10);
+            }
+            span.onclick = function() {
+                modal.classList.remove("active");
+                setTimeout(() => modal.style.display = "none", 300);
+            }
+            modal.onclick = function(e) {
+                if(e.target === modal) {
+                    modal.classList.remove("active");
+                    setTimeout(() => modal.style.display = "none", 300);
+                }
+            }
+        }
+    </script>
+</body>
+</html>
