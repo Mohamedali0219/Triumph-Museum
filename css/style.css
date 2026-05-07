@@ -771,6 +771,25 @@ body[dir="rtl"] .room-modal-details {
   color: var(--text-dark);
 }
 
+.booking-right {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.booking-img {
+  width: 100%;
+  max-width: 450px;
+  border-radius: 20px;
+  box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+  transition: var(--transition);
+}
+
+.booking-img:hover {
+  transform: scale(1.02);
+}
+
 
 
 /* RTL/LTR Arrow Fix */
