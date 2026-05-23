@@ -7,7 +7,8 @@ window.translations = {
       "hologram": "Hologram Journey",
       "presentation": "Visual Show",
       "museum": "History Rooms",
-      "tickets": "Book Tickets"
+      "tickets": "Book Tickets",
+      "contact": "Contact Us"
     },
     "hero": {
       "title": "Triumph Museum",
@@ -51,16 +52,14 @@ window.translations = {
       "type": "Ticket Type",
       "quantity": "Number of Tickets",
       "cta": "Book Now",
-      "p1_name": "General Admission",
-      "p1_price": "EGP 600",
-      "p2_name": "Students",
-      "p2_price": "EGP 300",
-      "p3_name": "Children (6-12 years)",
-      "p3_price": "EGP 200",
-      "p4_name": "Egyptians",
-      "p4_price": "EGP 200",
-      "p5_name": "Family (4 persons)",
-      "p5_price": "EGP 1500"
+      "p1_name": "Egyptian Visitor",
+      "p1_price": "EGP 30",
+      "p2_name": "Egyptian Student",
+      "p2_price": "EGP 10",
+      "p3_name": "Foreign Visitor",
+      "p3_price": "EGP 550",
+      "p4_name": "Foreign Student",
+      "p4_price": "EGP 275"
     },
     "footer": {
       "f1_title": "Total Security",
@@ -122,6 +121,10 @@ window.translations = {
       "address_text": "Remaya Square, Cairo-Alexandria Desert Road, Giza, Egypt.",
       "phone_title": "Phone",
       "email_title": "Email"
+    },
+    "presentation": {
+      "title": "Visual Museum Presentation",
+      "subtitle": "Witness the grandeur of Egyptian history in a stunning cinematic display"
     }
   },
   "ar": {
@@ -177,16 +180,14 @@ window.translations = {
       "type": "نوع التذكرة",
       "quantity": "عدد التذاكر",
       "cta": "احجز الآن",
-      "p1_name": "تذكرة عامة",
-      "p1_price": "EGP 600",
-      "p2_name": "طلاب",
-      "p2_price": "EGP 300",
-      "p3_name": "أطفال (6-12 سنة)",
-      "p3_price": "EGP 200",
-      "p4_name": "مصري",
-      "p4_price": "EGP 200",
-      "p5_name": "عائلة (4 أفراد)",
-      "p5_price": "EGP 1500"
+      "p1_name": "زائر مصري",
+      "p1_price": "30 ج.م",
+      "p2_name": "طالب مصري",
+      "p2_price": "10 ج.م",
+      "p3_name": "زائر أجنبي",
+      "p3_price": "550 ج.م",
+      "p4_name": "طالب أجنبي",
+      "p4_price": "275 ج.م"
     },
     "footer": {
       "f1_title": "أمان تام",
@@ -262,7 +263,8 @@ window.translations = {
       "hologram": "Voyage Hologramme",
       "presentation": "Spectacle Visuel",
       "museum": "Salles d'Histoire",
-      "tickets": "Réserver Billets"
+      "tickets": "Réserver Billets",
+      "contact": "Contact"
     },
     "hero": {
       "title": "Triumph Museum",
@@ -273,7 +275,7 @@ window.translations = {
     "info_bar": { "open_title": "Ouvert tous les jours", "open_desc": "9h00 - 18h00", "hologram_title": "Expérience Holographique", "hologram_desc": "12 salles interactives", "artifacts_title": "Plus de 100 000", "artifacts_desc": "Artefacts uniques", "museum_title": "Le plus grand musée archéologique", "museum_desc": "Superficie de 500 000 m²" },
     "hologram": { "title": "Hologramme Historique", "subtitle": "Explorez 13 salles interactives", "description": "La technologie holographique vous emmène dans un voyage à travers le temps.", "cta": "Explorer les salles" },
     "discover": { "title": "Découvrir le Musée", "c1_title": "Spectacles et Événements", "c1_desc": "Une expérience visuelle inoubliable", "c2_title": "Jardins et Obélisque", "c2_desc": "Espaces verts et monuments éternels", "c3_title": "Expositions Permanentes", "c3_desc": "Des expositions qui racontent l'histoire", "c4_title": "Artefacts", "c4_desc": "Les trésors les plus rares", "c5_title": "Le Grand Hall", "c5_desc": "Un voyage qui commence au cœur de la civilisation" },
-    "booking": { "title": "Réservez votre billet", "subtitle": "Choisissez la date, le type et commencez", "date": "Date", "type": "Type de billet", "quantity": "Quantité", "cta": "Réserver", "p1_name": "Admission Générale", "p1_price": "EGP 600", "p2_name": "Étudiants", "p2_price": "EGP 300", "p3_name": "Enfants (6-12 ans)", "p3_price": "EGP 200", "p4_name": "Égyptiens", "p4_price": "EGP 200", "p5_name": "Famille", "p5_price": "EGP 1500" },
+    "booking": { "title": "Réservez votre billet", "subtitle": "Choisissez la date, le type et commencez", "date": "Date", "type": "Type de billet", "quantity": "Quantité", "cta": "Réserver", "p1_name": "Visiteur Égyptien", "p1_price": "EGP 30", "p2_name": "Étudiant Égyptien", "p2_price": "EGP 10", "p3_name": "Visiteur Étranger", "p3_price": "EGP 550", "p4_name": "Étudiant Étranger", "p4_price": "EGP 275" },
     "gallery": {
       "title": "Salles du Musée - Un voyage à travers l'histoire",
       "intro": "Nous commençons notre voyage à l'intérieur du musée... où chaque salle raconte un chapitre de l'histoire de l'armée égyptienne.",
@@ -305,7 +307,8 @@ window.translations = {
       "hologram": "Hologramm Reise",
       "presentation": "Visuelle Show",
       "museum": "Historische Räume",
-      "tickets": "Tickets Buchen"
+      "tickets": "Tickets Buchen",
+      "contact": "Kontakt"
     },
     "hero": {
       "title": "Triumph Museum",
@@ -316,7 +319,7 @@ window.translations = {
     "info_bar": { "open_title": "Täglich geöffnet", "open_desc": "9:00 - 18:00 Uhr", "hologram_title": "Interaktives Hologramm", "hologram_desc": "12 Räume", "artifacts_title": "Mehr als 100.000", "artifacts_desc": "Einzigartige Artefakte", "museum_title": "Größtes archäologisches Museum", "museum_desc": "Fläche von 500.000 m²" },
     "hologram": { "title": "Historisches Hologramm", "subtitle": "Erkunden Sie 13 Räume", "description": "Die Hologramm-Technologie nimmt Sie mit auf eine Zeitreise.", "cta": "Räume erkunden" },
     "discover": { "title": "Entdecke das Museum", "c1_title": "Shows & Events", "c1_desc": "Unvergesslich", "c2_title": "Gärten", "c2_desc": "Grünflächen", "c3_title": "Dauerausstellungen", "c3_desc": "Geschichte erzählt", "c4_title": "Artefakte", "c4_desc": "Seltenste Schätze", "c5_title": "Die Große Halle", "c5_desc": "Das Herz der Zivilisation" },
-    "booking": { "title": "Ticket buchen", "subtitle": "Wählen Sie Datum und Typ", "date": "Datum", "type": "Ticket-Typ", "quantity": "Anzahl", "cta": "Jetzt buchen", "p1_name": "Allgemein", "p1_price": "EGP 600", "p2_name": "Studenten", "p2_price": "EGP 300", "p3_name": "Kinder (6-12 Jahre)", "p3_price": "EGP 200", "p4_name": "Ägypter", "p4_price": "EGP 200", "p5_name": "Familie", "p5_price": "EGP 1500" },
+    "booking": { "title": "Ticket buchen", "subtitle": "Wählen Sie Datum und Typ", "date": "Datum", "type": "Ticket-Typ", "quantity": "Anzahl", "cta": "Jetzt buchen", "p1_name": "Ägyptischer Besucher", "p1_price": "EGP 30", "p2_name": "Ägyptischer Student", "p2_price": "EGP 10", "p3_name": "Ausländischer Besucher", "p3_price": "EGP 550", "p4_name": "Ausländischer Student", "p4_price": "EGP 275" },
     "gallery": {
       "title": "Museumsräume - Eine Reise durch die Geschichte",
       "intro": "Wir beginnen unsere Reise im Museum... wo jeder Raum ein Kapitel der Geschichte der ägyptischen Armee erzählt.",
@@ -348,14 +351,15 @@ window.translations = {
       "hologram": "Viaje de Holograma", 
       "presentation": "Espectáculo Visual",
       "museum": "Salas de Historia", 
-      "tickets": "Reservar Entradas" 
+      "tickets": "Reservar Entradas",
+      "contact": "Contacto"
     }, 
     "hero": { 
       "title": "Triumph Museum", 
       "subtitle": "Un viaje por 7000 años", 
       "description": "Descubre las grandes obras maestras de la civilización.", 
       "cta": "Empieza ahora" 
-    }, "info_bar": { "open_title": "Abierto todos los días", "open_desc": "9:00 AM - 6:00 PM", "hologram_title": "Holograma Interactivo", "hologram_desc": "12 salas", "artifacts_title": "+100,000", "artifacts_desc": "Artefactos", "museum_title": "El museo más grande", "museum_desc": "500,000 m²" }, "hologram": { "title": "Holograma", "subtitle": "13 salas interactivas", "description": "Viaja en el tiempo con tecnología holográfica.", "cta": "Explorar" }, "discover": { "title": "Descubre el museo", "c1_title": "Eventos", "c1_desc": "Experiencia visual", "c2_title": "Jardines", "c2_desc": "Espacios verdes", "c3_title": "Exposiciones", "c3_desc": "Historia", "c4_title": "Artefactos", "c4_desc": "Tesoros", "c5_title": "Gran Salón", "c5_desc": "Corazón de la civilización" }, "booking": { "title": "Reserva tu entrada", "subtitle": "Elige fecha y tipo", "date": "Fecha", "type": "Tipo", "quantity": "Cantidad", "cta": "Reservar", "p1_name": "General", "p1_price": "EGP 600", "p2_name": "Estudiantes", "p2_price": "EGP 300", "p3_name": "Niños (6-12 años)", "p3_price": "EGP 200", "p4_name": "Egipcios", "p4_price": "EGP 200", "p5_name": "Familia", "p5_price": "EGP 1500" },
+    }, "info_bar": { "open_title": "Abierto todos los días", "open_desc": "9:00 AM - 6:00 PM", "hologram_title": "Holograma Interactivo", "hologram_desc": "12 salas", "artifacts_title": "+100,000", "artifacts_desc": "Artefactos", "museum_title": "El museo más grande", "museum_desc": "500,000 m²" }, "hologram": { "title": "Holograma", "subtitle": "13 salas interactivas", "description": "Viaja en el tiempo con tecnología holográfica.", "cta": "Explorar" }, "discover": { "title": "Descubre el museo", "c1_title": "Eventos", "c1_desc": "Experiencia visual", "c2_title": "Jardines", "c2_desc": "Espacios verdes", "c3_title": "Exposiciones", "c3_desc": "Historia", "c4_title": "Artefactos", "c4_desc": "Tesoros", "c5_title": "Gran Salón", "c5_desc": "Corazón de la civilización" }, "booking": { "title": "Reserva tu entrada", "subtitle": "Elige fecha y tipo", "date": "Fecha", "type": "Tipo", "quantity": "Cantidad", "cta": "Reservar", "p1_name": "Visitante Egipcio", "p1_price": "EGP 30", "p2_name": "Estudiante Egipcio", "p2_price": "EGP 10", "p3_name": "Visitante Extranjero", "p3_price": "EGP 550", "p4_name": "Estudiante Extranjero", "p4_price": "EGP 275" },
     "gallery": { 
       "title": "Salas del Museo - Un viaje por la historia", 
       "intro": "Comenzamos nuestro viaje dentro del museo... donde cada sala cuenta un capítulo de la historia del ejército egipcio.",
@@ -387,14 +391,15 @@ window.translations = {
       "hologram": "Viaggio Ologramma", 
       "presentation": "Spettacolo Visivo",
       "museum": "Sale Storiche", 
-      "tickets": "Prenota Biglietti" 
+      "tickets": "Prenota Biglietti",
+      "contact": "Contatti"
     }, 
     "hero": { 
       "title": "Triumph Museum", 
       "subtitle": "Un viaggio di 7000 anni", 
       "description": "Scopri i grandi capolavori.", 
       "cta": "Inizia ora" 
-    }, "info_bar": { "open_title": "Aperto tutti i giorni", "open_desc": "9:00 - 18:00", "hologram_title": "Ologramma", "hologram_desc": "12 sale", "artifacts_title": "+100.000", "artifacts_desc": "Reperti", "museum_title": "Il più grande", "museum_desc": "500.000 m²" }, "hologram": { "title": "Ologramma", "subtitle": "13 sale", "description": "Viaggia nel tempo.", "cta": "Esplora" }, "discover": { "title": "Scopri il museo", "c1_title": "Eventi", "c1_desc": "Visivi", "c2_title": "Giardini", "c2_desc": "Verdi", "c3_title": "Mostre", "c3_desc": "Storia", "c4_title": "Reperti", "c4_desc": "Tesori", "c5_title": "Grande Sala", "c5_desc": "Inizio" }, "booking": { "title": "Prenota", "subtitle": "Scegli data", "date": "Data", "type": "Tipo", "quantity": "Quantità", "cta": "Prenota", "p1_name": "Generale", "p1_price": "EGP 600", "p2_name": "Studenti", "p2_price": "EGP 300", "p3_name": "Bambini (6-12 anni)", "p3_price": "EGP 200", "p4_name": "Egiziani", "p4_price": "EGP 200", "p5_name": "Famiglia", "p5_price": "EGP 1500" },
+    }, "info_bar": { "open_title": "Aperto tutti i giorni", "open_desc": "9:00 - 18:00", "hologram_title": "Ologramma", "hologram_desc": "12 sale", "artifacts_title": "+100.000", "artifacts_desc": "Reperti", "museum_title": "Il più grande", "museum_desc": "500.000 m²" }, "hologram": { "title": "Ologramma", "subtitle": "13 sale", "description": "Viaggia nel tempo.", "cta": "Esplora" }, "discover": { "title": "Scopri il museo", "c1_title": "Eventi", "c1_desc": "Visivi", "c2_title": "Giardini", "c2_desc": "Verdi", "c3_title": "Mostre", "c3_desc": "Storia", "c4_title": "Reperti", "c4_desc": "Tesori", "c5_title": "Grande Sala", "c5_desc": "Inizio" }, "booking": { "title": "Prenota", "subtitle": "Scegli data", "date": "Data", "type": "Tipo", "quantity": "Quantità", "cta": "Prenota", "p1_name": "Visitatore Egiziano", "p1_price": "EGP 30", "p2_name": "Studente Egiziano", "p2_price": "EGP 10", "p3_name": "Visitatore Straniero", "p3_price": "EGP 550", "p4_name": "Studente Straniero", "p4_price": "EGP 275" },
     "gallery": { 
       "title": "Sale del Museo - Un viaggio nella storia", 
       "intro": "Iniziamo il nostro viaggio all'interno del museo... dove ogni sala racconta un capitolo della storia dell'esercito egiziano.",
@@ -426,14 +431,15 @@ window.translations = {
       "hologram": "全息之旅", 
       "presentation": "视觉表演",
       "museum": "历史展厅", 
-      "tickets": "预订门票" 
+      "tickets": "预订门票",
+      "contact": "联系我们"
     }, 
     "hero": { 
       "title": "Triumph Museum", 
       "subtitle": "7000年的历史之旅", 
       "description": "探索古埃及文明。", 
       "cta": "立即开始" 
-    }, "info_bar": { "open_title": "每天开放", "open_desc": "9:00 - 18:00", "hologram_title": "全息投影", "hologram_desc": "12个展厅", "artifacts_title": "+100,000", "artifacts_desc": "文物", "museum_title": "最大的博物馆", "museum_desc": "500,000 平方米" }, "hologram": { "title": "历史全息投影", "subtitle": "13个互动展厅", "description": "全息技术带你穿越时空。", "cta": "探索展厅" }, "discover": { "title": "探索博物馆", "c1_title": "活动", "c1_desc": "视觉体验", "c2_title": "花园", "c2_desc": "绿地", "c3_title": "展览", "c3_desc": "历史", "c4_title": "文物", "c4_desc": "珍宝", "c5_title": "大厅", "c5_desc": "文明之心" }, "booking": { "title": "预订门票", "subtitle": "选择日期和门票类型", "date": "日期", "type": "类型", "quantity": "数量", "cta": "预订", "p1_name": "普通票", "p1_price": "EGP 600", "p2_name": "学生", "p2_price": "EGP 300", "p3_name": "儿童 (6-12 岁)", "p3_price": "EGP 200", "p4_name": "埃及人", "p4_price": "EGP 200", "p5_name": "家庭", "p5_price": "EGP 1500" },
+    }, "info_bar": { "open_title": "每天开放", "open_desc": "9:00 - 18:00", "hologram_title": "全息投影", "hologram_desc": "12个展厅", "artifacts_title": "+100,000", "artifacts_desc": "文物", "museum_title": "最大的博物馆", "museum_desc": "500,000 平方米" }, "hologram": { "title": "历史全息投影", "subtitle": "13个互动展厅", "description": "全息技术带你穿越时空。", "cta": "探索展厅" }, "discover": { "title": "探索博物馆", "c1_title": "活动", "c1_desc": "视觉体验", "c2_title": "花园", "c2_desc": "绿地", "c3_title": "展览", "c3_desc": "历史", "c4_title": "文物", "c4_desc": "珍宝", "c5_title": "大厅", "c5_desc": "文明之心" }, "booking": { "title": "预订门票", "subtitle": "选择日期和门票类型", "date": "日期", "type": "类型", "quantity": "数量", "cta": "预订", "p1_name": "埃及游客", "p1_price": "EGP 30", "p2_name": "埃及学生", "p2_price": "EGP 10", "p3_name": "外国游客", "p3_price": "EGP 550", "p4_name": "外国学生", "p4_price": "EGP 275" },
     "gallery": { 
       "title": "博物馆展厅 - 历史之旅", 
       "intro": "我们开始在博物馆内的旅程……每个展厅都讲述了埃及军队历史的一个章节。",
@@ -465,14 +471,15 @@ window.translations = {
       "hologram": "ホログラムの旅", 
       "presentation": "ビジュアルショー",
       "museum": "歴史展示室", 
-      "tickets": "チケット予約" 
+      "tickets": "チケット予約",
+      "contact": "お問い合わせ"
     }, 
     "hero": { 
       "title": "Triumph Museum", 
       "subtitle": "7000年の旅", 
       "description": "古代エジプト文明を探索する。", 
       "cta": "今すぐ開始" 
-    }, "info_bar": { "open_title": "毎日営業", "open_desc": "9:00 - 18:00", "hologram_title": "ホログラム", "hologram_desc": "12の部屋", "artifacts_title": "+100,000", "artifacts_desc": "遺物", "museum_title": "最大の博物館", "museum_desc": "500,000 m²" }, "hologram": { "title": "歴史ホログラム", "subtitle": "13のインタラクティブルーム", "description": "ホログラム技術で時間を旅する。", "cta": "探索する" }, "discover": { "title": "博物館を発見する", "c1_title": "イベント", "c1_desc": "視覚体験", "c2_title": "庭園", "c2_desc": "緑地", "c3_title": "展示", "c3_desc": "歴史", "c4_title": "遺物", "c4_desc": "宝物", "c5_title": "大広間", "c5_desc": "文明の心" }, "booking": { "title": "チケットを予約", "subtitle": "日付と種類を選択", "date": "日付", "type": "種類", "quantity": "数量", "cta": "予約する", "p1_name": "一般", "p1_price": "EGP 600", "p2_name": "学生", "p2_price": "EGP 300", "p3_name": "子供 (6-12歳)", "p3_price": "EGP 200", "p4_name": "エジプト人", "p4_price": "EGP 200", "p5_name": "家族", "p5_price": "EGP 1500" },
+    }, "info_bar": { "open_title": "毎日営業", "open_desc": "9:00 - 18:00", "hologram_title": "ホログラム", "hologram_desc": "12の部屋", "artifacts_title": "+100,000", "artifacts_desc": "遺物", "museum_title": "最大の博物館", "museum_desc": "500,000 m²" }, "hologram": { "title": "歴史ホログラム", "subtitle": "13のインタラクティブルーム", "description": "ホログラム技術で時間を旅する。", "cta": "探索する" }, "discover": { "title": "博物館を発見する", "c1_title": "イベント", "c1_desc": "視覚体験", "c2_title": "庭園", "c2_desc": "緑地", "c3_title": "展示", "c3_desc": "歴史", "c4_title": "遺物", "c4_desc": "宝物", "c5_title": "大広間", "c5_desc": "文明の心" }, "booking": { "title": "チケットを予約", "subtitle": "日付と種類を選択", "date": "日付", "type": "種類", "quantity": "数量", "cta": "予約する", "p1_name": "エジプト人訪問者", "p1_price": "EGP 30", "p2_name": "エジプト人学生", "p2_price": "EGP 10", "p3_name": "外国人訪問者", "p3_price": "EGP 550", "p4_name": "外国人学生", "p4_price": "EGP 275" },
     "gallery": { 
       "title": "博物館の展示室 - 歴史への旅", 
       "intro": "博物館の中での旅を始めましょう。各部屋はエジプト軍の歴史の一章を語っています。",
@@ -504,14 +511,15 @@ window.translations = {
       "hologram": "Голографическое путешествие", 
       "presentation": "Визуальное шоу",
       "museum": "Исторические залы", 
-      "tickets": "Забронировать билеты" 
+      "tickets": "Забронировать билеты",
+      "contact": "Связаться с нами"
     }, 
     "hero": { 
       "title": "Triumph Museum", 
       "subtitle": "Путешествие длиной в 7000 лет", 
       "description": "Откройте для себя шедевры древнего Египта.", 
       "cta": "Начать" 
-    }, "info_bar": { "open_title": "Открыто ежедневно", "open_desc": "9:00 - 18:00", "hologram_title": "Голограмма", "hologram_desc": "12 залов", "artifacts_title": "+100,000", "artifacts_desc": "Артефакты", "museum_title": "Крупнейший музей", "museum_desc": "500,000 кв.м" }, "hologram": { "title": "Голограмма", "subtitle": "13 залов", "description": "Путешествие во времени.", "cta": "Исследовать" }, "discover": { "title": "Откройте музей", "c1_title": "События", "c1_desc": "Визуально", "c2_title": "Сады", "c2_desc": "Зелень", "c3_title": "Выставки", "c3_desc": "История", "c4_title": "Артефакты", "c4_desc": "Сокровища", "c5_title": "Большой зал", "c5_desc": "Сердце" }, "booking": { "title": "Забронировать", "subtitle": "Выберите дату", "date": "Дата", "type": "Тип", "quantity": "Количество", "cta": "Забронировать", "p1_name": "Общий", "p1_price": "EGP 600", "p2_name": "Студенты", "p2_price": "EGP 300", "p3_name": "Дети (6-12 лет)", "p3_price": "EGP 200", "p4_name": "Египтяне", "p4_price": "EGP 200", "p5_name": "Семья", "p5_price": "EGP 1500" },
+    }, "info_bar": { "open_title": "Открыто ежедневно", "open_desc": "9:00 - 18:00", "hologram_title": "Голограмма", "hologram_desc": "12 залов", "artifacts_title": "+100,000", "artifacts_desc": "Артефакты", "museum_title": "Крупнейший музей", "museum_desc": "500,000 кв.м" }, "hologram": { "title": "Голограмма", "subtitle": "13 залов", "description": "Путешествие во времени.", "cta": "Исследовать" }, "discover": { "title": "Откройте музей", "c1_title": "События", "c1_desc": "Визуально", "c2_title": "Сады", "c2_desc": "Зелень", "c3_title": "Выставки", "c3_desc": "История", "c4_title": "Артефакты", "c4_desc": "Сокровища", "c5_title": "Большой зал", "c5_desc": "Сердце" }, "booking": { "title": "Забронировать", "subtitle": "Выберите дату", "date": "Дата", "type": "Тип", "quantity": "Количество", "cta": "Забронировать", "p1_name": "Египетский посетитель", "p1_price": "EGP 30", "p2_name": "Египетский студент", "p2_price": "EGP 10", "p3_name": "Иностранный посетитель", "p3_price": "EGP 550", "p4_name": "Иностранный студент", "p4_price": "EGP 275" },
     "gallery": { 
       "title": "Залы музея - Путешествие сквозь историю", 
       "intro": "Мы начинаем наше путешествие внутри музея... где каждый зал рассказывает главу истории египетской армии.",
@@ -543,14 +551,15 @@ window.translations = {
       "hologram": "Hologram Yolculuğu", 
       "presentation": "Görsel Şov",
       "museum": "Tarih Odaları", 
-      "tickets": "Bilet Al" 
+      "tickets": "Bilet Al",
+      "contact": "İletişim"
     }, 
     "hero": { 
       "title": "Triumph Museum", 
       "subtitle": "7000 yıllık yolculuk", 
       "description": "Eski Mısır medeniyetini keşfedin.", 
       "cta": "Başla" 
-    }, "info_bar": { "open_title": "Her gün açık", "open_desc": "9:00 - 18:00", "hologram_title": "Hologram", "hologram_desc": "12 oda", "artifacts_title": "+100.000", "artifacts_desc": "Eserler", "museum_title": "En büyük müze", "museum_desc": "500.000 m²" }, "hologram": { "title": "Hologram", "subtitle": "13 etkileşimli oda", "description": "Zamanda yolculuk.", "cta": "Keşfet" }, "discover": { "title": "Müzeyi Keşfet", "c1_title": "Etkinlikler", "c1_desc": "Görsel deneyim", "c2_title": "Bahçeler", "c2_desc": "Yeşil alanlar", "c3_title": "Sergiler", "c3_desc": "Tarih", "c4_title": "Eserler", "c4_desc": "Hazineler", "c5_title": "Büyük Salon", "c5_desc": "Medeniyetin kalbi" }, "booking": { "title": "Bilet Al", "subtitle": "Tarih seç", "date": "Tarih", "type": "Tür", "quantity": "Adet", "cta": "Al", "p1_name": "Genel", "p1_price": "EGP 600", "p2_name": "Öğrenci", "p2_price": "EGP 300", "p3_name": "Çocuk (6-12 yaş)", "p3_price": "EGP 200", "p4_name": "Mısırlı", "p4_price": "EGP 200", "p5_name": "Aile", "p5_price": "EGP 1500" },
+    }, "info_bar": { "open_title": "Her gün açık", "open_desc": "9:00 - 18:00", "hologram_title": "Hologram", "hologram_desc": "12 oda", "artifacts_title": "+100.000", "artifacts_desc": "Eserler", "museum_title": "En büyük müze", "museum_desc": "500.000 m²" }, "hologram": { "title": "Hologram", "subtitle": "13 etkileşimli oda", "description": "Zamanda yolculuk.", "cta": "Keşfet" }, "discover": { "title": "Müzeyi Keşfet", "c1_title": "Etkinlikler", "c1_desc": "Görsel deneyim", "c2_title": "Bahçeler", "c2_desc": "Yeşil alanlar", "c3_title": "Sergiler", "c3_desc": "Tarih", "c4_title": "Eserler", "c4_desc": "Hazineler", "c5_title": "Büyük Salon", "c5_desc": "Medeniyetin kalbi" }, "booking": { "title": "Bilet Al", "subtitle": "Tarih seç", "date": "Tarih", "type": "Tür", "quantity": "Adet", "cta": "Al", "p1_name": "Mısırlı Ziyaretçi", "p1_price": "EGP 30", "p2_name": "Mısırlı Öğrenci", "p2_price": "EGP 10", "p3_name": "Yabancı Ziyaretçi", "p3_price": "EGP 550", "p4_name": "Yabancı Öğrenci", "p4_price": "EGP 275" },
     "gallery": { 
       "title": "Müze Odaları - Tarih Boyunca Bir Yolculuk", 
       "intro": "Müze içindeki yolculuğumuza başlıyoruz... her oda Mısır ordusu tarihinin bir bölümünü anlatıyor.",

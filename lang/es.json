@@ -1,12 +1,109 @@
 {
-  "lang_name": "Español",
+  "lang_name": "Espa\u00f1ol",
   "lang_dir": "ltr",
-  "nav": { "home": "Inicio", "about": "Sobre nosotros", "exhibitions": "Exposiciones", "artifacts": "Artefactos", "visit": "Visitar", "events": "Eventos", "contact": "Contacto" },
-  "hero": { "badge": "Fundado en 1902", "title": "El Gran Museo", "subtitle": "Viaje a través de los Siglos", "description": "Explore miles de años de civilización humana a través de nuestra colección de artefactos, arte y exposiciones interactivas de clase mundial.", "cta_primary": "Explorar ahora", "cta_secondary": "Planifica tu visita", "scroll_text": "Desplázate para descubrir" },
-  "about": { "badge": "Nuestra Historia", "title": "Un Siglo de Preservación", "subtitle": "Dedicados a preservar y celebrar el rico tapiz de la historia humana.", "text1": "Fundado hace más de un siglo, El Gran Museo es una de las principales instituciones mundiales para el estudio de las civilizaciones antiguas. Nuestra colección abarca cinco continentes y milenios de logros humanos.", "text2": "Estamos comprometidos a hacer la historia accesible a todos a través de exposiciones innovadoras y programas educativos.", "learn_more": "Saber más", "visitors": "2M+", "visitors_label": "Visitantes anuales", "artifacts_count": "50K+", "artifacts_label": "Artefactos", "years": "120+", "years_label": "Años de historia", "exhibitions_count": "200+", "exhibitions_label": "Exposiciones" },
-  "exhibitions": { "badge": "Galería", "title": "Exposiciones Actuales", "subtitle": "Descubra nuestras colecciones cuidadosamente seleccionadas de todo el mundo.", "filter_all": "Todos", "filter_ancient": "Mundo Antiguo", "filter_modern": "Era Moderna", "filter_islamic": "Arte Islámico", "filter_egypt": "Egipto Antiguo", "view_all": "Ver todas las exposiciones" },
-  "artifacts": { "badge": "Colección", "title": "Artefactos Destacados", "subtitle": "Cada pieza cuenta una historia de ingenio humano y patrimonio cultural.", "explore_btn": "Explorar colección completa" },
-  "visit": { "badge": "Planifica tu visita", "title": "Ven y Explora", "subtitle": "Todo lo que necesitas saber antes de tu visita.", "hours_title": "Horario de apertura", "monday_friday": "Lunes – Viernes", "monday_friday_hours": "9:00 – 18:00", "saturday_sunday": "Sábado – Domingo", "saturday_sunday_hours": "10:00 – 20:00", "closed": "Cerrado los", "closed_days": "Días festivos", "admission_title": "Entrada", "adults": "Adultos", "adults_price": "15 €", "students": "Estudiantes", "students_price": "8 €", "children": "Niños (menores de 12)", "children_price": "Gratis", "seniors": "Mayores (65+)", "seniors_price": "10 €", "location_title": "Ubicación", "address": "Avenida del Museo 123, Distrito Cultural, El Cairo, Egipto", "get_directions": "Cómo llegar" },
-  "events": { "badge": "Próximos", "title": "Eventos y Programas", "subtitle": "Únase a nosotros en exposiciones especiales y conferencias durante todo el año.", "register": "Registrarse", "free_label": "Gratis", "e1_date": "15 Mayo", "e1_title": "Tour Nocturno Egipto Antiguo", "e1_desc": "Vive la magia del museo después del anochecer.", "e1_type": "Tour", "e1_price": "25 €", "e2_date": "22 Mayo", "e2_title": "Serie de conferencias arqueológicas", "e2_desc": "Expertos líderes discuten sus descubrimientos recientes.", "e2_type": "Conferencia", "e2_price": "Gratis", "e3_date": "5 Jun", "e3_title": "Día de Historia Familiar", "e3_desc": "Actividades interactivas para todas las edades.", "e3_type": "Familia", "e3_price": "10 €", "e4_date": "18 Jun", "e4_title": "Inauguración Exposición Fotográfica", "e4_desc": "Visiones contemporáneas de temas antiguos.", "e4_type": "Exposición", "e4_price": "Gratis" },
-  "footer": { "description": "Preservando el pasado, inspirando el futuro. El Gran Museo celebra los logros humanos.", "quick_links": "Enlaces rápidos", "newsletter_title": "Mantente informado", "newsletter_desc": "Suscríbete para actualizaciones exclusivas sobre exposiciones.", "newsletter_placeholder": "Introduce tu email", "newsletter_btn": "Suscribirse", "rights": "© 2025 El Gran Museo. Todos los derechos reservados.", "privacy": "Política de privacidad", "terms": "Términos de uso", "accessibility": "Accesibilidad" }
+  "nav": {
+    "home": "Inicio",
+    "hologram": "Viaje de Holograma",
+    "presentation": "Espect\u00e1culo Visual",
+    "museum": "Salas de Historia",
+    "tickets": "Reservar Entradas",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Triumph Museum",
+    "subtitle": "Un viaje por 7000 a\u00f1os",
+    "description": "Descubre las grandes obras maestras de la civilizaci\u00f3n egipcia antigua en el museo arqueol\u00f3gico m\u00e1s grande del mundo.",
+    "cta": "Empieza ahora"
+  },
+  "info_bar": {
+    "open_title": "Abierto todos los d\u00edas",
+    "open_desc": "9:00 AM - 6:00 PM",
+    "hologram_title": "Holograma Interactivo",
+    "hologram_desc": "12 salas interactivas",
+    "artifacts_title": "+100,000",
+    "artifacts_desc": "Artefactos \u00fanicos",
+    "museum_title": "El museo m\u00e1s grande del mundo",
+    "museum_desc": "500,000 m\u00b2"
+  },
+  "hologram": {
+    "title": "Holograma Hist\u00f3rico",
+    "subtitle": "13 salas interactivas",
+    "description": "Viaja en el tiempo con tecnolog\u00eda hologr\u00e1fica a trav\u00e9s de la historia del ej\u00e9rcito egipcio.",
+    "cta": "Explorar"
+  },
+  "discover": {
+    "title": "Descubre el museo",
+    "c1_title": "Eventos",
+    "c1_desc": "Experiencia visual",
+    "c2_title": "Jardines",
+    "c2_desc": "Espacios verdes",
+    "c3_title": "Exposiciones",
+    "c3_desc": "Historia",
+    "c4_title": "Artefactos",
+    "c4_desc": "Tesoros",
+    "c5_title": "Gran Sal\u00f3n",
+    "c5_desc": "Coraz\u00f3n de la civilizaci\u00f3n"
+  },
+  "booking": {
+    "title": "Reserva tu entrada",
+    "subtitle": "Elige fecha y tipo",
+    "date": "Fecha",
+    "type": "Tipo",
+    "quantity": "Cantidad",
+    "cta": "Reservar",
+    "p1_name": "Visitante Egipcio",
+    "p1_price": "EGP 30",
+    "p2_name": "Estudiante Egipcio",
+    "p2_price": "EGP 10",
+    "p3_name": "Visitante Extranjero",
+    "p3_price": "EGP 550",
+    "p4_name": "Estudiante Extranjero",
+    "p4_price": "EGP 275"
+  },
+  "gallery": {
+    "title": "Salas del Museo - Un viaje por la historia",
+    "intro": "Comenzamos nuestro viaje dentro del museo... donde cada sala cuenta un cap\u00edtulo de la historia del ej\u00e9rcito egipcio.",
+    "room1_title": "Sala 1: Era de la Fundaci\u00f3n",
+    "room1_desc": "Aqu\u00ed vemos a Narmer unificando las dos tierras, con el primer ej\u00e9rcito organizado con armas simples de piedra y cuero.",
+    "room2_title": "Sala 2: Reino Antiguo",
+    "room2_desc": "El ej\u00e9rcito de los constructores de pir\u00e1mides. Armas de cobre, organizaci\u00f3n estricta y protecci\u00f3n de misiones y caminos.",
+    "room3_title": "Sala 3: Reino Medio",
+    "room3_desc": "Poder renovado... hachas desarrolladas, escudos de madera y fuertes que se extienden al sur hacia Nubia.",
+    "room4_title": "Sala 4: Reino Nuevo",
+    "room4_desc": "Era del Imperio. El carro de guerra completo, el arco compuesto y el Khopesh de bronce.",
+    "room5_title": "Sala 5: Periodo Tard\u00edo",
+    "room5_desc": "Ej\u00e9rcito mixto de egipcios y mercenarios griegos. Escudos Hoplon y lanzas de falange.",
+    "room6_title": "Sala 6: Periodo Greco-Romano",
+    "room6_desc": "Escudo Scutum, espada Gladius, Sarissa larga y cascos de hierro pesados.",
+    "room7_title": "Sala 7: Era Isl\u00e1mica",
+    "room7_desc": "Espadas curvas, armadura de cota de malla, caballeros ayyub\u00edes y mamelucos frente a los cruzados.",
+    "room8_title": "Sala 8: Era Mameluca",
+    "room8_desc": "Los caballeros m\u00e1s fuertes del Oriente. Arco compuesto, armadura de escamas y espadas turcas en escenas simuladas.",
+    "room9_title": "Sala 9: Era Otomana",
+    "room9_desc": "Era de la p\u00f3lvora. Rifles de mecha, ca\u00f1ones masivos y uniformes de j\u00edzaros.",
+    "room10_title": "Sala 10: Era de Muhammad Ali",
+    "room10_desc": "El comienzo del ej\u00e9rcito moderno. El Tarbush, escuelas militares y rifles europeos.",
+    "room11_title": "Sala 11: Era Republicana",
+    "room11_desc": "Revoluci\u00f3n de julio, ej\u00e9rcito profesional y la sala de la Guerra de Octubre: muro de misiles y l\u00edderes de la victoria.",
+    "room12_title": "Sala 12: Pertenencias Personales",
+    "room12_desc": "La pistola de Nasser, el reloj de Sadat, el casco de Mubarak y los mapas de Shazly y Gamasy.",
+    "room13_title": "Sala 13: \u00c1rea Infantil",
+    "room13_desc": "T\u00fanel de gateo, pared de escalada y un mapa interactivo para ense\u00f1ar a los ni\u00f1os el significado de defender la patria."
+  },
+  "footer": {
+    "f1_title": "Seguridad",
+    "f1_desc": "Est\u00e1ndares altos",
+    "f2_title": "Restaurantes",
+    "f2_desc": "Experiencia \u00fanica",
+    "f3_title": "Regalos",
+    "f3_desc": "Recuerdos",
+    "f4_title": "Gu\u00edas",
+    "f4_desc": "Informaci\u00f3n",
+    "f5_title": "Accesibilidad",
+    "f5_desc": "Instalaciones"
+  },
+  "presentation": {
+    "title": "Presentaci\u00f3n Visual del Museo",
+    "subtitle": "Experimente la grandeza de la historia egipcia en una impresionante exhibici\u00f3n cinematogr\u00e1fica"
+  }
 }

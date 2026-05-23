@@ -1,12 +1,109 @@
 {
   "lang_name": "Italiano",
   "lang_dir": "ltr",
-  "nav": { "home": "Home", "about": "Chi siamo", "exhibitions": "Mostre", "artifacts": "Reperti", "visit": "Visita", "events": "Eventi", "contact": "Contatti" },
-  "hero": { "badge": "Fondato nel 1902", "title": "Il Grande Museo", "subtitle": "Viaggio attraverso i Secoli", "description": "Esplora migliaia di anni di civiltà umana attraverso la nostra collezione mondiale di reperti, arte e mostre interattive.", "cta_primary": "Esplora ora", "cta_secondary": "Pianifica la tua visita", "scroll_text": "Scorri per scoprire" },
-  "about": { "badge": "La nostra storia", "title": "Un Secolo di Conservazione", "subtitle": "Dedicati alla preservazione e alla celebrazione della ricca storia dell'umanità.", "text1": "Fondato oltre un secolo fa, Il Grande Museo è una delle principali istituzioni mondiali per lo studio delle civiltà antiche. La nostra collezione abbraccia cinque continenti e millenni di storia.", "text2": "Siamo impegnati a rendere la storia accessibile a tutti attraverso mostre innovative e programmi educativi.", "learn_more": "Per saperne di più", "visitors": "2M+", "visitors_label": "Visitatori annuali", "artifacts_count": "50K+", "artifacts_label": "Reperti", "years": "120+", "years_label": "Anni di storia", "exhibitions_count": "200+", "exhibitions_label": "Mostre" },
-  "exhibitions": { "badge": "Galleria", "title": "Mostre Attuali", "subtitle": "Scopri le nostre collezioni accuratamente selezionate da tutto il mondo.", "filter_all": "Tutti", "filter_ancient": "Mondo Antico", "filter_modern": "Era Moderna", "filter_islamic": "Arte Islamica", "filter_egypt": "Antico Egitto", "view_all": "Visualizza tutte le mostre" },
-  "artifacts": { "badge": "Collezione", "title": "Reperti in Evidenza", "subtitle": "Ogni pezzo racconta una storia di ingegno umano e patrimonio culturale.", "explore_btn": "Esplora la collezione completa" },
-  "visit": { "badge": "Pianifica la tua visita", "title": "Vieni ad Esplorare", "subtitle": "Tutto ciò che devi sapere prima della tua visita.", "hours_title": "Orari di apertura", "monday_friday": "Lunedì – Venerdì", "monday_friday_hours": "9:00 – 18:00", "saturday_sunday": "Sabato – Domenica", "saturday_sunday_hours": "10:00 – 20:00", "closed": "Chiuso nei", "closed_days": "Giorni festivi", "admission_title": "Biglietti", "adults": "Adulti", "adults_price": "15 €", "students": "Studenti", "students_price": "8 €", "children": "Bambini (under 12)", "children_price": "Gratuito", "seniors": "Anziani (65+)", "seniors_price": "10 €", "location_title": "Posizione", "address": "Via del Museo 123, Quartiere Culturale, Il Cairo, Egitto", "get_directions": "Ottieni indicazioni" },
-  "events": { "badge": "In arrivo", "title": "Eventi & Programmi", "subtitle": "Unisciti a noi per mostre speciali e conferenze durante tutto l'anno.", "register": "Registrati", "free_label": "Gratuito", "e1_date": "15 Mag", "e1_title": "Tour notturno Antico Egitto", "e1_desc": "Vivi la magia del museo dopo il tramonto.", "e1_type": "Tour", "e1_price": "25 €", "e2_date": "22 Mag", "e2_title": "Serie di conferenze archeologiche", "e2_desc": "Esperti leader discutono le loro scoperte recenti.", "e2_type": "Conferenza", "e2_price": "Gratuito", "e3_date": "5 Giu", "e3_title": "Giornata della storia in famiglia", "e3_desc": "Attività interattive per tutte le età.", "e3_type": "Famiglia", "e3_price": "10 €", "e4_date": "18 Giu", "e4_title": "Inaugurazione mostra fotografica", "e4_desc": "Visioni contemporanee di soggetti antichi.", "e4_type": "Mostra", "e4_price": "Gratuito" },
-  "footer": { "description": "Preservare il passato, ispirare il futuro. Il Grande Museo celebra i risultati dell'umanità.", "quick_links": "Link rapidi", "newsletter_title": "Rimani aggiornato", "newsletter_desc": "Iscriviti per aggiornamenti esclusivi su mostre ed eventi.", "newsletter_placeholder": "Inserisci la tua email", "newsletter_btn": "Iscriviti", "rights": "© 2025 Il Grande Museo. Tutti i diritti riservati.", "privacy": "Informativa sulla privacy", "terms": "Termini di utilizzo", "accessibility": "Accessibilità" }
+  "nav": {
+    "home": "Home",
+    "hologram": "Viaggio Ologramma",
+    "presentation": "Spettacolo Visivo",
+    "museum": "Sale Storiche",
+    "tickets": "Prenota Biglietti",
+    "contact": "Contatti"
+  },
+  "hero": {
+    "title": "Triumph Museum",
+    "subtitle": "Un viaggio di 7000 anni",
+    "description": "Scopri i grandi capolavori dell'antica civilt\u00e0 egizia nel pi\u00f9 grande museo archeologico del mondo.",
+    "cta": "Inizia ora"
+  },
+  "info_bar": {
+    "open_title": "Aperto tutti i giorni",
+    "open_desc": "9:00 - 18:00",
+    "hologram_title": "Esperienza Ologramma Interattiva",
+    "hologram_desc": "12 sale interattive",
+    "artifacts_title": "+100.000",
+    "artifacts_desc": "Reperti unici",
+    "museum_title": "Il pi\u00f9 grande museo archeologico",
+    "museum_desc": "500.000 m\u00b2"
+  },
+  "hologram": {
+    "title": "Ologramma Storico",
+    "subtitle": "13 sale interattive",
+    "description": "Viaggia nel tempo con la tecnologia olografica attraverso la storia dell'esercito egiziano.",
+    "cta": "Esplora"
+  },
+  "discover": {
+    "title": "Scopri il museo",
+    "c1_title": "Eventi",
+    "c1_desc": "Esperienza visiva",
+    "c2_title": "Giardini",
+    "c2_desc": "Spazi verdi",
+    "c3_title": "Mostre",
+    "c3_desc": "Storia",
+    "c4_title": "Reperti",
+    "c4_desc": "Tesori",
+    "c5_title": "Grande Sala",
+    "c5_desc": "Cuore della civilt\u00e0"
+  },
+  "booking": {
+    "title": "Prenota il tuo biglietto",
+    "subtitle": "Scegli data e tipo",
+    "date": "Data",
+    "type": "Tipo",
+    "quantity": "Quantit\u00e0",
+    "cta": "Prenota",
+    "p1_name": "Visitatore Egiziano",
+    "p1_price": "EGP 30",
+    "p2_name": "Studente Egiziano",
+    "p2_price": "EGP 10",
+    "p3_name": "Visitatore Straniero",
+    "p3_price": "EGP 550",
+    "p4_name": "Studente Straniero",
+    "p4_price": "EGP 275"
+  },
+  "gallery": {
+    "title": "Sale del Museo - Un viaggio nella storia",
+    "intro": "Iniziamo il nostro viaggio all'interno del museo... dove ogni sala racconta un capitolo della storia dell'esercito egiziano.",
+    "room1_title": "Sala 1: Era della Fondazione",
+    "room1_desc": "Qui vediamo Narmer che unifica le due terre, con il primo esercito organizzato con semplici armi di pietra e cuoio.",
+    "room2_title": "Sala 2: Antico Regno",
+    "room2_desc": "L'esercito dei costruttori di piramidi. Armi di rame, organizzazione rigorosa e protezione di missioni e strade.",
+    "room3_title": "Sala 3: Medio Regno",
+    "room3_desc": "Potere rinnovato... asce sviluppate, scudi di legno e forti che si estendono a sud verso la Nubia.",
+    "room4_title": "Sala 4: Nuovo Regno",
+    "room4_desc": "Era dell'Impero. Il carro da guerra completo, l'arco composito e il Khopesh di bronzo.",
+    "room5_title": "Sala 5: Periodo Tardo",
+    "room5_desc": "Esercito misto di egiziani e mercenari greci. Scudi Hoplon e lance falange.",
+    "room6_title": "Sala 6: Periodo Greco-Romano",
+    "room6_desc": "Scudo Scutum, spada Gladius, lunga Sarissa e pesanti elmi di ferro.",
+    "room7_title": "Sala 7: Era Islamica",
+    "room7_desc": "Spade curve, armatura in maglia di ferro, cavalieri ayyubidi e mamelucchi di fronte ai crociati.",
+    "room8_title": "Sala 8: Era Mamelucca",
+    "room8_desc": "I cavalieri pi\u00f9 forti dell'Oriente. Arco composito, armatura a scaglie e spade turche in scene simulate.",
+    "room9_title": "Sala 9: Era Ottomana",
+    "room9_desc": "Era della polvere da sparo. Fucili a miccia, cannoni enormi e uniformi da giannizzero.",
+    "room10_title": "Sala 10: Era di Muhammad Ali",
+    "room10_desc": "L'inizio dell'esercito moderno. Il Tarbush, le scuole militari e i fucili europei.",
+    "room11_title": "Sala 11: Era Repubblicana",
+    "room11_desc": "Rivoluzione di luglio, esercito professionale e la sala della guerra di ottobre: muro di missili e leader della vittoria.",
+    "room12_title": "Sala 12: Effetti Personali",
+    "room12_desc": "La pistola di Nasser, l'orologio di Sadat, l'elmo di Mubarak e le mappe di Shazly e Gamasy.",
+    "room13_title": "Sala 13: Area Bambini",
+    "room13_desc": "Tunnel strisciante, parete da arrampicata e una mappa interattiva per insegnare ai bambini il significato di difendere la patria."
+  },
+  "footer": {
+    "f1_title": "Sicurezza",
+    "f1_desc": "Standard elevati",
+    "f2_title": "Ristoranti",
+    "f2_desc": "Esperienza culinaria",
+    "f3_title": "Regali",
+    "f3_desc": "Ricordi",
+    "f4_title": "Guide",
+    "f4_desc": "Informazioni ricche",
+    "f5_title": "Accessibilit\u00e0",
+    "f5_desc": "Strutture accessibili"
+  },
+  "presentation": {
+    "title": "Presentazione Visiva del Museo",
+    "subtitle": "Vivi la grandiosit\u00e0 della storia egiziana in uno splendido spettacolo cinematografico"
+  }
 }

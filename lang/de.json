@@ -1,12 +1,109 @@
 {
   "lang_name": "Deutsch",
   "lang_dir": "ltr",
-  "nav": { "home": "Startseite", "about": "Über uns", "exhibitions": "Ausstellungen", "artifacts": "Artefakte", "visit": "Besuch", "events": "Veranstaltungen", "contact": "Kontakt" },
-  "hero": { "badge": "Gegründet 1902", "title": "Das Große Museum", "subtitle": "Reise durch die Zeitalter", "description": "Entdecken Sie Tausende von Jahren menschlicher Zivilisation durch unsere weltklasse Sammlung von Artefakten, Kunst und interaktiven Ausstellungen.", "cta_primary": "Jetzt erkunden", "cta_secondary": "Ihren Besuch planen", "scroll_text": "Scrollen zum Entdecken" },
-  "about": { "badge": "Unsere Geschichte", "title": "Ein Jahrhundert der Bewahrung", "subtitle": "Dem Erhalt und der Feier des reichen Wandteppichs der Menschheitsgeschichte gewidmet.", "text1": "Das Große Museum wurde vor über einem Jahrhundert gegründet und ist eine der weltweit führenden Institutionen für das Studium antiker Zivilisationen. Unsere Sammlung umfasst fünf Kontinente und Jahrtausende menschlicher Errungenschaften.", "text2": "Wir sind bestrebt, Geschichte durch innovative Ausstellungen und Bildungsprogramme für alle zugänglich zu machen.", "learn_more": "Mehr erfahren", "visitors": "2M+", "visitors_label": "Jahresbesucher", "artifacts_count": "50K+", "artifacts_label": "Artefakte", "years": "120+", "years_label": "Jahre Geschichte", "exhibitions_count": "200+", "exhibitions_label": "Ausstellungen" },
-  "exhibitions": { "badge": "Galerie", "title": "Aktuelle Ausstellungen", "subtitle": "Entdecken Sie unsere sorgfältig kuratierten Sammlungen aus der ganzen Welt.", "filter_all": "Alle", "filter_ancient": "Antike Welt", "filter_modern": "Moderne Ära", "filter_islamic": "Islamische Kunst", "filter_egypt": "Altes Ägypten", "view_all": "Alle Ausstellungen anzeigen" },
-  "artifacts": { "badge": "Sammlung", "title": "Ausgewählte Artefakte", "subtitle": "Jedes Stück erzählt eine Geschichte menschlichen Einfallsreichtums.", "explore_btn": "Gesamte Sammlung erkunden" },
-  "visit": { "badge": "Ihren Besuch planen", "title": "Kommen & Erkunden", "subtitle": "Alles, was Sie vor Ihrem Besuch wissen müssen.", "hours_title": "Öffnungszeiten", "monday_friday": "Montag – Freitag", "monday_friday_hours": "9:00 – 18:00 Uhr", "saturday_sunday": "Samstag – Sonntag", "saturday_sunday_hours": "10:00 – 20:00 Uhr", "closed": "Geschlossen an", "closed_days": "Feiertagen", "admission_title": "Eintritt", "adults": "Erwachsene", "adults_price": "15 €", "students": "Studenten", "students_price": "8 €", "children": "Kinder (unter 12)", "children_price": "Kostenlos", "seniors": "Senioren (65+)", "seniors_price": "10 €", "location_title": "Lage", "address": "Museumsallee 123, Kulturviertel, Kairo, Ägypten", "get_directions": "Wegbeschreibung" },
-  "events": { "badge": "Bevorstehend", "title": "Veranstaltungen & Programme", "subtitle": "Besuchen Sie uns bei Sonderausstellungen und Vorträgen das ganze Jahr über.", "register": "Registrieren", "free_label": "Kostenlos", "e1_date": "15. Mai", "e1_title": "Nächtliche Ägypten-Tour", "e1_desc": "Erleben Sie die Magie des Museums nach Einbruch der Dunkelheit.", "e1_type": "Tour", "e1_price": "25 €", "e2_date": "22. Mai", "e2_title": "Archäologische Vortragsreihe", "e2_desc": "Führende Experten diskutieren aktuelle Entdeckungen.", "e2_type": "Vortrag", "e2_price": "Kostenlos", "e3_date": "5. Jun", "e3_title": "Familien-Geschichtstag", "e3_desc": "Interaktive Aktivitäten für alle Altersgruppen.", "e3_type": "Familie", "e3_price": "10 €", "e4_date": "18. Jun", "e4_title": "Fotografie-Ausstellungseröffnung", "e4_desc": "Zeitgenössische Sichtweisen auf antike Themen.", "e4_type": "Ausstellung", "e4_price": "Kostenlos" },
-  "footer": { "description": "Die Vergangenheit bewahren, die Zukunft inspirieren. Das Große Museum feiert menschliche Errungenschaften.", "quick_links": "Schnelllinks", "newsletter_title": "Bleiben Sie informiert", "newsletter_desc": "Abonnieren Sie für exklusive Updates zu Ausstellungen und Veranstaltungen.", "newsletter_placeholder": "E-Mail-Adresse eingeben", "newsletter_btn": "Abonnieren", "rights": "© 2025 Das Große Museum. Alle Rechte vorbehalten.", "privacy": "Datenschutzrichtlinie", "terms": "Nutzungsbedingungen", "accessibility": "Barrierefreiheit" }
+  "nav": {
+    "home": "Startseite",
+    "hologram": "Hologramm Reise",
+    "presentation": "Visuelle Show",
+    "museum": "Historische R\u00e4ume",
+    "tickets": "Tickets Buchen",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Triumph Museum",
+    "subtitle": "Eine Reise durch 7000 Jahre",
+    "description": "Entdecken Sie die gr\u00f6\u00dften Meisterwerke der alten \u00e4gyptischen Zivilisation im gr\u00f6\u00dften arch\u00e4ologischen Museum der Welt.",
+    "cta": "Starten Sie jetzt"
+  },
+  "info_bar": {
+    "open_title": "T\u00e4glich ge\u00f6ffnet",
+    "open_desc": "9:00 - 18:00 Uhr",
+    "hologram_title": "Interaktives Hologramm",
+    "hologram_desc": "12 R\u00e4ume",
+    "artifacts_title": "Mehr als 100.000",
+    "artifacts_desc": "Einzigartige Artefakte",
+    "museum_title": "Gr\u00f6\u00dftes arch\u00e4ologisches Museum",
+    "museum_desc": "Fl\u00e4che von 500.000 m\u00b2"
+  },
+  "hologram": {
+    "title": "Historisches Hologramm",
+    "subtitle": "Erkunden Sie 13 R\u00e4ume",
+    "description": "Die Hologramm-Technologie nimmt Sie mit auf eine Zeitreise durch die Kapitel der \u00e4gyptischen Armeegeschichte.",
+    "cta": "R\u00e4ume erkunden"
+  },
+  "discover": {
+    "title": "Entdecke das Museum",
+    "c1_title": "Shows & Events",
+    "c1_desc": "Unvergesslich",
+    "c2_title": "G\u00e4rten",
+    "c2_desc": "Gr\u00fcnfl\u00e4chen",
+    "c3_title": "Dauerausstellungen",
+    "c3_desc": "Geschichte erz\u00e4hlt",
+    "c4_title": "Artefakte",
+    "c4_desc": "Seltenste Sch\u00e4tze",
+    "c5_title": "Die Gro\u00dfe Halle",
+    "c5_desc": "Das Herz der Zivilisation"
+  },
+  "booking": {
+    "title": "Ticket buchen",
+    "subtitle": "W\u00e4hlen Sie Datum und Typ",
+    "date": "Datum",
+    "type": "Ticket-Typ",
+    "quantity": "Anzahl",
+    "cta": "Jetzt buchen",
+    "p1_name": "\u00c4gyptischer Besucher",
+    "p1_price": "EGP 30",
+    "p2_name": "\u00c4gyptischer Student",
+    "p2_price": "EGP 10",
+    "p3_name": "Ausl\u00e4ndischer Besucher",
+    "p3_price": "EGP 550",
+    "p4_name": "Ausl\u00e4ndischer Student",
+    "p4_price": "EGP 275"
+  },
+  "gallery": {
+    "title": "Museumsr\u00e4ume - Eine Reise durch die Geschichte",
+    "intro": "Wir beginnen unsere Reise im Museum... wo jeder Raum ein Kapitel der Geschichte der \u00e4gyptischen Armee erz\u00e4hlt.",
+    "room1_title": "Raum 1: \u00c4ra der Gr\u00fcndung",
+    "room1_desc": "Hier sehen wir Narmer, wie er die beiden L\u00e4nder vereint, mit der ersten organisierten Armee mit einfachen Waffen aus Stein und Leder.",
+    "room2_title": "Raum 2: Altes Reich",
+    "room2_desc": "Die Armee der Pyramidenbauer. Kupferwaffen, strikte Organisation und Schutz von Missionen und Stra\u00dfen.",
+    "room3_title": "Raum 3: Mittleres Reich",
+    "room3_desc": "Erneuerte Macht... entwickelte \u00c4xte, Holzschilde und Forts, die sich nach S\u00fcden in Richtung Nubien erstrecken.",
+    "room4_title": "Raum 4: Neues Reich",
+    "room4_desc": "\u00c4ra des Imperiums. Der vollst\u00e4ndige Streitwagen, der Kompositbogen und das bronzene Khopesh.",
+    "room5_title": "Raum 5: Sp\u00e4tzeit",
+    "room5_desc": "Gemischte Armee aus \u00c4gyptern und griechischen S\u00f6ldnern. Hoplon-Schilde und Phalanx-Speere.",
+    "room6_title": "Raum 6: Griechisch-R\u00f6mische Zeit",
+    "room6_desc": "Scutum-Schild, Gladius-Schwert, lange Sarissa und schwere Eisenhelme.",
+    "room7_title": "Raum 7: Islamische \u00c4ra",
+    "room7_desc": "Krummschwerter, Kettenhemd-R\u00fcstung, ayyubidische und mamelukische Ritter gegen die Kreuzfahrer.",
+    "room8_title": "Raum 8: Mamelucken-\u00c4ra",
+    "room8_desc": "Die st\u00e4rksten Ritter des Ostens. Kompositbogen, Schuppenpanzer und t\u00fcrkische Schwerter in simulierten Szenen.",
+    "room9_title": "Raum 9: Osmanische \u00c4ra",
+    "room9_desc": "\u00c4ra des Schie\u00dfpulvers. Luntenschlossgewehre, massive Kanonen und Janitscharen-Uniformen.",
+    "room10_title": "Raum 10: \u00c4ra von Muhammad Ali",
+    "room10_desc": "Der Beginn der modernen Armee. Der Tarbusch, Milit\u00e4rschulen und europ\u00e4ische Gewehre.",
+    "room11_title": "Raum 11: Republikanische \u00c4ra",
+    "room11_desc": "Juli-Revolution, Berufsarmee und der Oktoberkrieg-Raum: Raketenwand und Siegesf\u00fchrer.",
+    "room12_title": "Raum 12: Pers\u00f6nliche Gegenst\u00e4nde",
+    "room12_desc": "Nassers Pistole, Sadats Uhr, Mubaraks Helm und Karten von Shazly und Gamasy.",
+    "room13_title": "Raum 13: Kinderbereich",
+    "room13_desc": "Kriechtunnel, Kletterwand und eine interaktive Karte, um Kindern die Bedeutung der Verteidigung der Heimat beizubringen."
+  },
+  "footer": {
+    "f1_title": "Sicherheit",
+    "f1_desc": "H\u00f6chste Standards",
+    "f2_title": "Restaurants",
+    "f2_desc": "Einzigartig",
+    "f3_title": "Shops",
+    "f3_desc": "Souvenirs",
+    "f4_title": "Guides",
+    "f4_desc": "Informativ",
+    "f5_title": "Barrierefreiheit",
+    "f5_desc": "F\u00fcr alle zug\u00e4nglich"
+  },
+  "presentation": {
+    "title": "Visuelle Museumspr\u00e4sentation",
+    "subtitle": "Erleben Sie die Gr\u00f6\u00dfe der \u00e4gyptischen Geschichte in einer atemberaubenden filmischen Darstellung"
+  }
 }

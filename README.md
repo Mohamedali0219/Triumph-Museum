@@ -1,6 +1,6 @@
-# Triumph Museum - The Grand Egyptian Museum Website
+# Triumph Museum
 
-A premium, interactive, and multilingual web application for the **Triumph Museum** (The Grand Egyptian Museum), showcasing the glorious history of the Egyptian Army through a modern digital experience.
+A premium, interactive, and multilingual web application for the **Triumph Museum**, showcasing the glorious history of the Egyptian Army through a modern digital experience.
 
 ## 🌟 Key Features
 

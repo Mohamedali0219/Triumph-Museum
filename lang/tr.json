@@ -1,12 +1,109 @@
 {
-  "lang_name": "Türkçe",
+  "lang_name": "T\u00fcrk\u00e7e",
   "lang_dir": "ltr",
-  "nav": { "home": "Ana Sayfa", "about": "Hakkımızda", "exhibitions": "Sergiler", "artifacts": "Eserler", "visit": "Ziyaret", "events": "Etkinlikler", "contact": "İletişim" },
-  "hero": { "badge": "1902'de kuruldu", "title": "Büyük Müze", "subtitle": "Çağlar Boyunca Yolculuk", "description": "Dünya standartlarındaki eserler, sanat ve interaktif sergiler koleksiyonumuz aracılığıyla binlerce yıllık insan uygarlığını keşfedin.", "cta_primary": "Şimdi Keşfet", "cta_secondary": "Ziyaretinizi Planlayın", "scroll_text": "Keşfetmek için kaydırın" },
-  "about": { "badge": "Hikayemiz", "title": "Yüz Yıllık Koruma", "subtitle": "İnsanlığın zengin tarihsel dokusunu korumaya ve kutlamaya adanmış.", "text1": "Bir asırdan fazla süre önce kurulan Büyük Müze, antik uygarlıkların incelenmesi ve takdir edilmesi için dünyanın önde gelen kurumlarından biridir. Koleksiyonumuz beş kıtayı ve binlerce yıllık insan başarısını kapsamaktadır.", "text2": "Yenilikçi sergiler ve eğitim programları aracılığıyla tarihi herkese erişilebilir kılmaya kararlıyız.", "learn_more": "Daha Fazla Bilgi", "visitors": "2M+", "visitors_label": "Yıllık Ziyaretçi", "artifacts_count": "50K+", "artifacts_label": "Eser", "years": "120+", "years_label": "Yıllık Tarih", "exhibitions_count": "200+", "exhibitions_label": "Sergi" },
-  "exhibitions": { "badge": "Galeri", "title": "Güncel Sergiler", "subtitle": "Dünya genelinde titizlikle seçilmiş koleksiyonlarımızı keşfedin.", "filter_all": "Tümü", "filter_ancient": "Antik Dünya", "filter_modern": "Modern Dönem", "filter_islamic": "İslam Sanatı", "filter_egypt": "Antik Mısır", "view_all": "Tüm Sergileri Görüntüle" },
-  "artifacts": { "badge": "Koleksiyon", "title": "Öne Çıkan Eserler", "subtitle": "Her parça, insan yaratıcılığının ve kültürel mirasın bir hikayesini anlatır.", "explore_btn": "Tam Koleksiyonu Keşfet" },
-  "visit": { "badge": "Ziyaretinizi Planlayın", "title": "Gelin ve Keşfedin", "subtitle": "Ziyaretinizden önce bilmeniz gereken her şey.", "hours_title": "Açılış Saatleri", "monday_friday": "Pazartesi – Cuma", "monday_friday_hours": "09:00 – 18:00", "saturday_sunday": "Cumartesi – Pazar", "saturday_sunday_hours": "10:00 – 20:00", "closed": "Kapalı", "closed_days": "Resmi Tatiller", "admission_title": "Giriş Ücretleri", "adults": "Yetişkinler", "adults_price": "300 TL", "students": "Öğrenciler", "students_price": "150 TL", "children": "Çocuklar (12 yaş altı)", "children_price": "Ücretsiz", "seniors": "Yaşlılar (65+)", "seniors_price": "200 TL", "location_title": "Konum", "address": "Müze Caddesi 123, Kültür Bölgesi, Kahire, Mısır", "get_directions": "Yol Tarifi Al" },
-  "events": { "badge": "Yaklaşan", "title": "Etkinlikler ve Programlar", "subtitle": "Yıl boyunca özel sergi, konferans ve eğitim programlarımıza katılın.", "register": "Kayıt Ol", "free_label": "Ücretsiz", "e1_date": "15 Mayıs", "e1_title": "Antik Mısır Gece Turu", "e1_desc": "Karanlık bastıktan sonra müzenin büyüsünü yaşayın.", "e1_type": "Tur", "e1_price": "500 TL", "e2_date": "22 Mayıs", "e2_title": "Arkeoloji Konferans Serisi", "e2_desc": "Uzman isimler en son keşiflerini tartışıyor.", "e2_type": "Konferans", "e2_price": "Ücretsiz", "e3_date": "5 Haz", "e3_title": "Aile Tarih Günü", "e3_desc": "Her yaşa uygun interaktif etkinlikler.", "e3_type": "Aile", "e3_price": "200 TL", "e4_date": "18 Haz", "e4_title": "Fotoğraf Sergisi Açılışı", "e4_desc": "Yerel sanatçıların antik konulara modern bakışı.", "e4_type": "Sergi", "e4_price": "Ücretsiz" },
-  "footer": { "description": "Geçmişi koruyarak geleceğe ilham veriyoruz. Büyük Müze, tüm uygarlıklardaki insan başarılarını kutlar.", "quick_links": "Hızlı Bağlantılar", "newsletter_title": "Güncel Kalın", "newsletter_desc": "Sergiler ve etkinliklerle ilgili özel güncellemeler için abone olun.", "newsletter_placeholder": "E-posta adresinizi girin", "newsletter_btn": "Abone Ol", "rights": "© 2025 Büyük Müze. Tüm hakları saklıdır.", "privacy": "Gizlilik Politikası", "terms": "Kullanım Şartları", "accessibility": "Erişilebilirlik" }
+  "nav": {
+    "home": "Ana Sayfa",
+    "hologram": "Hologram Yolculu\u011fu",
+    "presentation": "G\u00f6rsel \u015eov",
+    "museum": "Tarih Odalar\u0131",
+    "tickets": "Bilet Al",
+    "contact": "\u0130leti\u015fim"
+  },
+  "hero": {
+    "title": "Triumph Museum",
+    "subtitle": "7000 y\u0131ll\u0131k tarihi yolculuk",
+    "description": "D\u00fcnyan\u0131n en b\u00fcy\u00fck arkeoloji m\u00fczesinde antik M\u0131s\u0131r uygarl\u0131\u011f\u0131n\u0131n en b\u00fcy\u00fck \u015faheserlerini ke\u015ffedin.",
+    "cta": "Ba\u015fla"
+  },
+  "info_bar": {
+    "open_title": "Her g\u00fcn a\u00e7\u0131k",
+    "open_desc": "9:00 - 18:00",
+    "hologram_title": "Etkile\u015fimli Hologram Deneyimi",
+    "hologram_desc": "12 etkile\u015fimli oda",
+    "artifacts_title": "100.000'den fazla",
+    "artifacts_desc": "Benzersiz eserler",
+    "museum_title": "D\u00fcnyan\u0131n en b\u00fcy\u00fck arkeoloji m\u00fczesi",
+    "museum_desc": "500.000 m\u00b2 alan"
+  },
+  "hologram": {
+    "title": "Tarihi Hologram",
+    "subtitle": "13 etkile\u015fimli oda",
+    "description": "Hologram teknolojisi sizi M\u0131s\u0131r ordusunun kurulu\u015fundan modern d\u00f6neme kadar olan tarihinde bir yolculu\u011fa \u00e7\u0131kar\u0131yor.",
+    "cta": "Odalar\u0131 ke\u015ffet"
+  },
+  "discover": {
+    "title": "M\u00fczeyi Ke\u015ffet",
+    "c1_title": "Etkinlikler",
+    "c1_desc": "G\u00f6rsel deneyim",
+    "c2_title": "Bah\u00e7eler",
+    "c2_desc": "Ye\u015fil alanlar",
+    "c3_title": "Sergiler",
+    "c3_desc": "Tarih",
+    "c4_title": "Eserler",
+    "c4_desc": "Hazineler",
+    "c5_title": "B\u00fcy\u00fck Salon",
+    "c5_desc": "Medeniyetin kalbi"
+  },
+  "booking": {
+    "title": "Bilet Al",
+    "subtitle": "Tarih ve t\u00fcr se\u00e7",
+    "date": "Tarih",
+    "type": "T\u00fcr",
+    "quantity": "Adet",
+    "cta": "Al",
+    "p1_name": "M\u0131s\u0131rl\u0131 Ziyaret\u00e7i",
+    "p1_price": "EGP 30",
+    "p2_name": "M\u0131s\u0131rl\u0131 \u00d6\u011frenci",
+    "p2_price": "EGP 10",
+    "p3_name": "Yabanc\u0131 Ziyaret\u00e7i",
+    "p3_price": "EGP 550",
+    "p4_name": "Yabanc\u0131 \u00d6\u011frenci",
+    "p4_price": "EGP 275"
+  },
+  "gallery": {
+    "title": "M\u00fcze Odalar\u0131 - Tarih Boyunca Bir Yolculuk",
+    "intro": "M\u00fcze i\u00e7indeki yolculu\u011fumuza ba\u015fl\u0131yoruz... her oda M\u0131s\u0131r ordusu tarihinin bir b\u00f6l\u00fcm\u00fcn\u00fc anlat\u0131yor.",
+    "room1_title": "Oda 1: Kurulu\u015f D\u00f6nemi",
+    "room1_desc": "Burada iki diyar\u0131 birle\u015ftiren Narmer'i, ta\u015f ve deriden basit silahlarla ilk organize orduyu g\u00f6r\u00fcyoruz.",
+    "room2_title": "Oda 2: Eski Krall\u0131k",
+    "room2_desc": "Piramit in\u015faat\u00e7\u0131lar\u0131n\u0131n ordusu. Bak\u0131r silahlar, s\u0131k\u0131 organizasyon ve g\u00f6revlerin ve yollar\u0131n korunmas\u0131.",
+    "room3_title": "Oda 3: Orta Krall\u0131k",
+    "room3_desc": "Yenilenen g\u00fc\u00e7... geli\u015ftirilmi\u015f baltalar, ah\u015fap kalkanlar ve Nubia'ya do\u011fru g\u00fcneye uzanan kaleler.",
+    "room4_title": "Oda 4: Yeni Krall\u0131k",
+    "room4_desc": "\u0130mparatorluk D\u00f6nemi. Tam sava\u015f arabas\u0131, kompozit yay ve bronz Khopesh.",
+    "room5_title": "Oda 5: Ge\u00e7 D\u00f6nem",
+    "room5_desc": "M\u0131s\u0131rl\u0131 ve Yunan paral\u0131 askerlerden olu\u015fan karma ordu. Hoplon kalkanlar\u0131 ve Falanks m\u0131zraklar\u0131.",
+    "room6_title": "Oda 6: Greko-Romen D\u00f6nemi",
+    "room6_desc": "Scutum kalkan\u0131, Gladius k\u0131l\u0131c\u0131, uzun Sarissa ve a\u011f\u0131r demir mi\u011fferler.",
+    "room7_title": "Oda 7: \u0130slam D\u00f6nemi",
+    "room7_desc": "E\u011fri k\u0131l\u0131\u00e7lar, zincir z\u0131rhlar, Ha\u00e7l\u0131larla kar\u015f\u0131la\u015fan Eyyubi ve Memluk \u015f\u00f6valyeleri.",
+    "room8_title": "Oda 8: Memluk D\u00f6nemi",
+    "room8_desc": "Do\u011fu'nun en g\u00fc\u00e7l\u00fc \u015f\u00f6valyeleri. Sim\u00fcle sahnelerde kompozit yay, pullu z\u0131rh ve T\u00fcrk k\u0131l\u0131\u00e7lar\u0131.",
+    "room9_title": "Oda 9: Osmanl\u0131 D\u00f6nemi",
+    "room9_desc": "Barut d\u00f6nemi. Fitilli t\u00fcfekler, devasa toplar ve Yeni\u00e7eri \u00fcniformalar\u0131.",
+    "room10_title": "Oda 10: Kavalal\u0131 Mehmet Ali Pa\u015fa D\u00f6nemi",
+    "room10_desc": "Modern ordunun ba\u015flang\u0131c\u0131. Fes, askeri okullar ve Avrupa t\u00fcfekleri.",
+    "room11_title": "Oda 11: Cumhuriyet D\u00f6nemi",
+    "room11_desc": "Temmuz devrimi, profesyonel ordu ve Ekim Sava\u015f\u0131 odas\u0131: f\u00fcze duvar\u0131 ve zafer liderleri.",
+    "room12_title": "Oda 12: Ki\u015fisel E\u015fyalar",
+    "room12_desc": "Nas\u0131r'\u0131n tabancas\u0131, Sedat'\u0131n saati, M\u00fcbarek'in mi\u011fferi ve \u015eazli ve Cemasi'nin haritalar\u0131.",
+    "room13_title": "Oda 13: \u00c7ocuk Alan\u0131",
+    "room13_desc": "\u00c7ocuklara vatan\u0131 savunman\u0131n anlam\u0131n\u0131 \u00f6\u011fretmek i\u00e7in emekleme t\u00fcneli, t\u0131rmanma duvar\u0131 ve interaktif bir harita."
+  },
+  "footer": {
+    "f1_title": "G\u00fcvenlik",
+    "f1_desc": "Y\u00fcksek standartlar",
+    "f2_title": "Restoranlar",
+    "f2_desc": "Lezzetli deneyim",
+    "f3_title": "Hediyelik",
+    "f3_desc": "Hat\u0131ra",
+    "f4_title": "Rehberler",
+    "f4_desc": "Bilgi dolu",
+    "f5_title": "Eri\u015filebilirlik",
+    "f5_desc": "Kolay eri\u015fim"
+  },
+  "presentation": {
+    "title": "M\u00fcze G\u00f6rsel Sunumu",
+    "subtitle": "M\u0131s\u0131r tarihinin g\u00f6rkemini \u00e7arp\u0131c\u0131 bir sinematik g\u00f6sterimle deneyimleyin"
+  }
 }

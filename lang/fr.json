@@ -1,12 +1,109 @@
 {
-  "lang_name": "Français",
+  "lang_name": "Fran\u00e7ais",
   "lang_dir": "ltr",
-  "nav": { "home": "Accueil", "about": "À propos", "exhibitions": "Expositions", "artifacts": "Artefacts", "visit": "Visite", "events": "Événements", "contact": "Contact" },
-  "hero": { "badge": "Fondé en 1902", "title": "Le Grand Musée", "subtitle": "Voyage à travers les Âges", "description": "Explorez des millénaires de civilisation humaine à travers notre collection mondiale d'artefacts, d'art et d'expositions interactives.", "cta_primary": "Explorer", "cta_secondary": "Planifier votre visite", "scroll_text": "Défiler pour découvrir" },
-  "about": { "badge": "Notre Histoire", "title": "Un Siècle de Préservation", "subtitle": "Dédié à la préservation et à la célébration de la riche histoire humaine.", "text1": "Fondé il y a plus d'un siècle, Le Grand Musée est l'une des premières institutions mondiales pour l'étude des civilisations anciennes. Notre collection s'étend sur cinq continents et des millénaires d'histoire.", "text2": "Nous nous engageons à rendre l'histoire accessible à tous grâce à des expositions innovantes et des programmes éducatifs.", "learn_more": "En savoir plus", "visitors": "2M+", "visitors_label": "Visiteurs annuels", "artifacts_count": "50K+", "artifacts_label": "Artefacts", "years": "120+", "years_label": "Ans d'histoire", "exhibitions_count": "200+", "exhibitions_label": "Expositions" },
-  "exhibitions": { "badge": "Galerie", "title": "Expositions Actuelles", "subtitle": "Découvrez nos collections soigneusement sélectionnées du monde entier.", "filter_all": "Tout", "filter_ancient": "Monde Antique", "filter_modern": "Ère Moderne", "filter_islamic": "Art Islamique", "filter_egypt": "Égypte Antique", "view_all": "Voir toutes les expositions" },
-  "artifacts": { "badge": "Collection", "title": "Artefacts en Vedette", "subtitle": "Chaque pièce raconte une histoire d'ingéniosité humaine.", "explore_btn": "Explorer la collection complète" },
-  "visit": { "badge": "Planifier votre visite", "title": "Venez Explorer", "subtitle": "Tout ce que vous devez savoir avant votre visite.", "hours_title": "Horaires d'ouverture", "monday_friday": "Lundi – Vendredi", "monday_friday_hours": "9h00 – 18h00", "saturday_sunday": "Samedi – Dimanche", "saturday_sunday_hours": "10h00 – 20h00", "closed": "Fermé les", "closed_days": "Jours fériés", "admission_title": "Tarifs", "adults": "Adultes", "adults_price": "15 €", "students": "Étudiants", "students_price": "8 €", "children": "Enfants (moins de 12 ans)", "children_price": "Gratuit", "seniors": "Seniors (65+)", "seniors_price": "10 €", "location_title": "Emplacement", "address": "123 Avenue du Musée, Quartier Culturel, Le Caire, Égypte", "get_directions": "Obtenir l'itinéraire" },
-  "events": { "badge": "À venir", "title": "Événements & Programmes", "subtitle": "Rejoignez-nous pour des expositions spéciales et des conférences tout au long de l'année.", "register": "S'inscrire", "free_label": "Gratuit", "e1_date": "15 Mai", "e1_title": "Visite nocturne Égypte ancienne", "e1_desc": "Vivez la magie du musée après la tombée de la nuit.", "e1_type": "Visite", "e1_price": "25 €", "e2_date": "22 Mai", "e2_title": "Série de conférences archéologiques", "e2_desc": "Des experts discutent de leurs découvertes récentes.", "e2_type": "Conférence", "e2_price": "Gratuit", "e3_date": "5 Juin", "e3_title": "Journée Famille Histoire", "e3_desc": "Activités interactives pour tous les âges.", "e3_type": "Famille", "e3_price": "10 €", "e4_date": "18 Juin", "e4_title": "Inauguration Exposition Photo", "e4_desc": "Regards contemporains sur des sujets antiques.", "e4_type": "Exposition", "e4_price": "Gratuit" },
-  "footer": { "description": "Préserver le passé, inspirer l'avenir. Le Grand Musée célèbre les réalisations humaines.", "quick_links": "Liens rapides", "newsletter_title": "Restez informé", "newsletter_desc": "Abonnez-vous pour des mises à jour exclusives sur les expositions.", "newsletter_placeholder": "Entrez votre email", "newsletter_btn": "S'abonner", "rights": "© 2025 Le Grand Musée. Tous droits réservés.", "privacy": "Politique de confidentialité", "terms": "Conditions d'utilisation", "accessibility": "Accessibilité" }
+  "nav": {
+    "home": "Accueil",
+    "hologram": "Voyage Hologramme",
+    "presentation": "Spectacle Visuel",
+    "museum": "Salles d'Histoire",
+    "tickets": "R\u00e9server Billets",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Triumph Museum",
+    "subtitle": "Un voyage \u00e0 travers 7000 ans d'histoire",
+    "description": "D\u00e9couvrez les plus grands chefs-d'\u0153uvre de la civilisation \u00e9gyptienne ancienne dans le plus grand mus\u00e9e arch\u00e9ologique du monde.",
+    "cta": "Commencez votre voyage"
+  },
+  "info_bar": {
+    "open_title": "Ouvert tous les jours",
+    "open_desc": "9h00 - 18h00",
+    "hologram_title": "Exp\u00e9rience Holographique Interactive",
+    "hologram_desc": "12 salles interactives",
+    "artifacts_title": "Plus de 100 000",
+    "artifacts_desc": "Artefacts uniques",
+    "museum_title": "Le plus grand mus\u00e9e arch\u00e9ologique",
+    "museum_desc": "Superficie de 500 000 m\u00b2"
+  },
+  "hologram": {
+    "title": "Hologramme Historique",
+    "subtitle": "Explorez 13 salles interactives",
+    "description": "La technologie holographique vous emm\u00e8ne dans un voyage \u00e0 travers le temps, vivant les chapitres de l'histoire de l'arm\u00e9e \u00e9gyptienne de sa fondation \u00e0 l'\u00e8re moderne.",
+    "cta": "Explorer les salles"
+  },
+  "discover": {
+    "title": "D\u00e9couvrir le Mus\u00e9e",
+    "c1_title": "Spectacles et \u00c9v\u00e9nements",
+    "c1_desc": "Une exp\u00e9rience visuelle inoubliable",
+    "c2_title": "Jardins et Ob\u00e9lisque",
+    "c2_desc": "Espaces verts et monuments \u00e9ternels",
+    "c3_title": "Expositions Permanentes",
+    "c3_desc": "Des expositions qui racontent l'histoire",
+    "c4_title": "Artefacts",
+    "c4_desc": "Les tr\u00e9sors les plus rares",
+    "c5_title": "Le Grand Hall",
+    "c5_desc": "Un voyage qui commence au c\u0153ur de la civilisation"
+  },
+  "booking": {
+    "title": "R\u00e9servez votre billet",
+    "subtitle": "Choisissez la date, le type et commencez",
+    "date": "Date",
+    "type": "Type de billet",
+    "quantity": "Quantit\u00e9",
+    "cta": "R\u00e9server",
+    "p1_name": "Visiteur \u00c9gyptien",
+    "p1_price": "EGP 30",
+    "p2_name": "\u00c9tudiant \u00c9gyptien",
+    "p2_price": "EGP 10",
+    "p3_name": "Visiteur \u00c9tranger",
+    "p3_price": "EGP 550",
+    "p4_name": "\u00c9tudiant \u00c9tranger",
+    "p4_price": "EGP 275"
+  },
+  "gallery": {
+    "title": "Salles du Mus\u00e9e - Un voyage \u00e0 travers l'histoire",
+    "intro": "Nous commen\u00e7ons notre voyage \u00e0 l'int\u00e9rieur du mus\u00e9e... o\u00f9 chaque salle raconte un chapitre de l'histoire de l'arm\u00e9e \u00e9gyptienne.",
+    "room1_title": "Salle 1: \u00c8re de Fondation",
+    "room1_desc": "Ici nous voyons Narmer unifiant les deux terres, avec la premi\u00e8re arm\u00e9e organis\u00e9e dot\u00e9e d'armes simples en pierre et en cuir.",
+    "room2_title": "Salle 2: Ancien Empire",
+    "room2_desc": "L'arm\u00e9e des b\u00e2tisseurs de pyramides. Armes en cuivre, organisation stricte et protection des missions et des routes.",
+    "room3_title": "Salle 3: Moyen Empire",
+    "room3_desc": "Puissance renouvel\u00e9e... haches d\u00e9velopp\u00e9es, boucliers en bois et forts s'\u00e9tendant au sud vers la Nubie.",
+    "room4_title": "Salle 4: Nouvel Empire",
+    "room4_desc": "\u00c8re de l'Empire. Le char de guerre complet, l'arc composite et le Khopesh en bronze.",
+    "room5_title": "Salle 5: Basse \u00c9poque",
+    "room5_desc": "Arm\u00e9e mixte d'\u00c9gyptiens et de mercenaires grecs. Boucliers Hoplon et lances de phalange.",
+    "room6_title": "Salle 6: \u00c9poque Gr\u00e9co-Romaine",
+    "room6_desc": "Bouclier Scutum, \u00e9p\u00e9e Gladius, longue Sarisse et casques en fer lourds.",
+    "room7_title": "Salle 7: \u00c8re Islamique",
+    "room7_desc": "\u00c9p\u00e9es courbes, cotte de mailles, chevaliers ayyoubides et mamelouks face aux Crois\u00e9s.",
+    "room8_title": "Salle 8: \u00c8re Mamelouke",
+    "room8_desc": "Les chevaliers les plus puissants de l'Orient. Arc composite, armure d'\u00e9cailles et \u00e9p\u00e9es turques dans des sc\u00e8nes simul\u00e9es.",
+    "room9_title": "Salle 9: \u00c8re Ottomane",
+    "room9_desc": "\u00c8re de la poudre \u00e0 canon. Fusils \u00e0 m\u00e8che, canons massifs et uniformes de janissaires.",
+    "room10_title": "Salle 10: \u00c8re de Muhammad Ali",
+    "room10_desc": "Le d\u00e9but de l'arm\u00e9e moderne. Le Tarbouche, les \u00e9coles militaires et les fusils europ\u00e9ens.",
+    "room11_title": "Salle 11: \u00c8re R\u00e9publicaine",
+    "room11_desc": "R\u00e9volution de juillet, arm\u00e9e professionnelle et salle de la guerre d'octobre : mur de missiles et chefs de la victoire.",
+    "room12_title": "Salle 12: Effets Personnels",
+    "room12_desc": "Le pistolet de Nasser, la montre de Sadate, le casque de Moubarak et les cartes de Shazly et Gamasy.",
+    "room13_title": "Salle 13: Espace Enfants",
+    "room13_desc": "Tunnel rampant, mur d'escalade et carte interactive pour enseigner aux enfants le sens de la d\u00e9fense de la patrie."
+  },
+  "footer": {
+    "f1_title": "S\u00e9curit\u00e9 Totale",
+    "f1_desc": "Normes de s\u00e9curit\u00e9",
+    "f2_title": "Restaurants",
+    "f2_desc": "Exp\u00e9rience culinaire",
+    "f3_title": "Boutiques",
+    "f3_desc": "Souvenirs",
+    "f4_title": "Guides",
+    "f4_desc": "Exp\u00e9rience riche",
+    "f5_title": "Accessibilit\u00e9",
+    "f5_desc": "Installations adapt\u00e9es"
+  },
+  "presentation": {
+    "title": "Pr\u00e9sentation Visuelle du Mus\u00e9e",
+    "subtitle": "D\u00e9couvrez la grandeur de l'histoire \u00e9gyptienne dans un affichage cin\u00e9matographique \u00e9poustouflant"
+  }
 }
