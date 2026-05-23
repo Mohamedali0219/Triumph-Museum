@@ -20,7 +20,7 @@ window.translations = {
       "open_title": "Open Daily",
       "open_desc": "9:00 AM - 6:00 PM",
       "hologram_title": "Interactive Hologram Experience",
-      "hologram_desc": "12 rooms spanning 7000 years",
+      "hologram_desc": "15 rooms spanning 7000 years",
       "artifacts_title": "More than 100,000",
       "artifacts_desc": "Unique artifacts",
       "museum_title": "Largest Archaeological Museum",
@@ -28,7 +28,7 @@ window.translations = {
     },
     "hologram": {
       "title": "Historical Hologram",
-      "subtitle": "Explore 13 interactive rooms",
+      "subtitle": "Explore 15 interactive rooms",
       "description": "Hologram technology takes you on a journey through time, living through the chapters of the Egyptian army's history from its founding to the modern era.",
       "cta": "Explore the rooms"
     },
@@ -118,7 +118,7 @@ window.translations = {
       "send": "Send Message",
       "info_title": "Contact Information",
       "address_title": "Address",
-      "address_text": "Remaya Square, Cairo-Alexandria Desert Road, Giza, Egypt.",
+      "address_text": "Fifth Settlement, Second Sector, 200 meters from 90th North and 90th South Streets, after Petro Sport Stadium, next to Dusit Thani Lakeview Hotel and Qasr Al-Kababgy.",
       "phone_title": "Phone",
       "email_title": "Email"
     },
@@ -148,7 +148,7 @@ window.translations = {
       "open_title": "مفتوح يومياً",
       "open_desc": "9:00 صباحاً – 6:00 مساءً",
       "hologram_title": "تجربة هولوجرام تفاعلية",
-      "hologram_desc": "12 غرفة عبر 7000 سنة",
+      "hologram_desc": "15 غرفة عبر 7000 سنة",
       "artifacts_title": "أكثر من 100,000",
       "artifacts_desc": "قطعة أثرية فريدة",
       "museum_title": "أكبر متحف أثري في العالم",
@@ -156,7 +156,7 @@ window.translations = {
     },
     "hologram": {
       "title": "الهولوجرام التاريخي",
-      "subtitle": "استكشف 13 غرفة تفاعلية",
+      "subtitle": "استكشف 15 غرفة تفاعلية",
       "description": "تقنية الهولوجرام تنقلك في رحلة عبر الزمن، تعيش فيها فصول تاريخ الجيش المصري من التأسيس وحتى العصر الحديث.",
       "cta": "استكشف الغرف"
     },
@@ -246,7 +246,7 @@ window.translations = {
       "send": "إرسال الرسالة",
       "info_title": "معلومات الاتصال",
       "address_title": "العنوان",
-      "address_text": "ميدان الرماية، طريق القاهرة الإسكندرية الصحراوي، الجيزة، مصر.",
+      "address_text": "التجمع الخامس، القطاع الثاني، 200 متر من التسعين الشمالي والتسعين الجنوبي، بعد ستاد بترو سبورت، بجوار فندق دوسيت تاني ليك فيو وقصر الكبابجي.",
       "phone_title": "الهاتف",
       "email_title": "البريد الإلكتروني"
     },
@@ -272,8 +272,8 @@ window.translations = {
       "description": "Découvrez les plus grands chefs-d'œuvre de la civilisation égyptienne ancienne.",
       "cta": "Commencez votre voyage"
     },
-    "info_bar": { "open_title": "Ouvert tous les jours", "open_desc": "9h00 - 18h00", "hologram_title": "Expérience Holographique", "hologram_desc": "12 salles interactives", "artifacts_title": "Plus de 100 000", "artifacts_desc": "Artefacts uniques", "museum_title": "Le plus grand musée archéologique", "museum_desc": "Superficie de 500 000 m²" },
-    "hologram": { "title": "Hologramme Historique", "subtitle": "Explorez 13 salles interactives", "description": "La technologie holographique vous emmène dans un voyage à travers le temps.", "cta": "Explorer les salles" },
+    "info_bar": { "open_title": "Ouvert tous les jours", "open_desc": "9h00 - 18h00", "hologram_title": "Expérience Holographique", "hologram_desc": "15 salles interactives", "artifacts_title": "Plus de 100 000", "artifacts_desc": "Artefacts uniques", "museum_title": "Le plus grand musée archéologique", "museum_desc": "Superficie de 500 000 m²" },
+    "hologram": { "title": "Hologramme Historique", "subtitle": "Explorez 15 salles interactives", "description": "La technologie holographique vous emmène dans un voyage à travers le temps.", "cta": "Explorer les salles" },
     "discover": { "title": "Découvrir le Musée", "c1_title": "Spectacles et Événements", "c1_desc": "Une expérience visuelle inoubliable", "c2_title": "Jardins et Obélisque", "c2_desc": "Espaces verts et monuments éternels", "c3_title": "Expositions Permanentes", "c3_desc": "Des expositions qui racontent l'histoire", "c4_title": "Artefacts", "c4_desc": "Les trésors les plus rares", "c5_title": "Le Grand Hall", "c5_desc": "Un voyage qui commence au cœur de la civilisation" },
     "booking": { "title": "Réservez votre billet", "subtitle": "Choisissez la date, le type et commencez", "date": "Date", "type": "Type de billet", "quantity": "Quantité", "cta": "Réserver", "p1_name": "Visiteur Égyptien", "p1_price": "EGP 30", "p2_name": "Étudiant Égyptien", "p2_price": "EGP 10", "p3_name": "Visiteur Étranger", "p3_price": "EGP 550", "p4_name": "Étudiant Étranger", "p4_price": "EGP 275" },
     "gallery": {
@@ -294,6 +294,9 @@ window.translations = {
       "room13_title": "Salle 13: Espace Enfants", "room13_desc": "Tunnel rampant, mur d'escalade et carte interactive pour enseigner aux enfants le sens de la défense de la patrie."
     },
     "footer": { "f1_title": "Sécurité Totale", "f1_desc": "Normes de sécurité", "f2_title": "Restaurants", "f2_desc": "Expérience culinaire", "f3_title": "Boutiques", "f3_desc": "Souvenirs", "f4_title": "Guides", "f4_desc": "Expérience riche", "f5_title": "Accessibilité", "f5_desc": "Installations adaptées" },
+    "contact": {
+      "address_text": "Fifth Settlement, Deuxième Secteur, à 200 mètres des rues 90 Nord et 90 Sud, après le Stade Petro Sport, à côté de l'Hôtel Dusit Thani Lakeview et du Qasr Al-Kababgy."
+    },
     "presentation": {
       "title": "Présentation Visuelle du Musée",
       "subtitle": "Découvrez la grandeur de l'histoire égyptienne dans un affichage cinématographique époustouflant"
@@ -316,8 +319,8 @@ window.translations = {
       "description": "Entdecken Sie die größten Meisterwerke der alten ägyptischen Zivilisation.",
       "cta": "Starten Sie jetzt"
     },
-    "info_bar": { "open_title": "Täglich geöffnet", "open_desc": "9:00 - 18:00 Uhr", "hologram_title": "Interaktives Hologramm", "hologram_desc": "12 Räume", "artifacts_title": "Mehr als 100.000", "artifacts_desc": "Einzigartige Artefakte", "museum_title": "Größtes archäologisches Museum", "museum_desc": "Fläche von 500.000 m²" },
-    "hologram": { "title": "Historisches Hologramm", "subtitle": "Erkunden Sie 13 Räume", "description": "Die Hologramm-Technologie nimmt Sie mit auf eine Zeitreise.", "cta": "Räume erkunden" },
+    "info_bar": { "open_title": "Täglich geöffnet", "open_desc": "9:00 - 18:00 Uhr", "hologram_title": "Interaktives Hologramm", "hologram_desc": "15 Räume", "artifacts_title": "Mehr als 100.000", "artifacts_desc": "Einzigartige Artefakte", "museum_title": "Größtes archäologisches Museum", "museum_desc": "Fläche von 500.000 m²" },
+    "hologram": { "title": "Historisches Hologramm", "subtitle": "Erkunden Sie 15 Räume", "description": "Die Hologramm-Technologie nimmt Sie mit auf eine Zeitreise.", "cta": "Räume erkunden" },
     "discover": { "title": "Entdecke das Museum", "c1_title": "Shows & Events", "c1_desc": "Unvergesslich", "c2_title": "Gärten", "c2_desc": "Grünflächen", "c3_title": "Dauerausstellungen", "c3_desc": "Geschichte erzählt", "c4_title": "Artefakte", "c4_desc": "Seltenste Schätze", "c5_title": "Die Große Halle", "c5_desc": "Das Herz der Zivilisation" },
     "booking": { "title": "Ticket buchen", "subtitle": "Wählen Sie Datum und Typ", "date": "Datum", "type": "Ticket-Typ", "quantity": "Anzahl", "cta": "Jetzt buchen", "p1_name": "Ägyptischer Besucher", "p1_price": "EGP 30", "p2_name": "Ägyptischer Student", "p2_price": "EGP 10", "p3_name": "Ausländischer Besucher", "p3_price": "EGP 550", "p4_name": "Ausländischer Student", "p4_price": "EGP 275" },
     "gallery": {
@@ -338,6 +341,9 @@ window.translations = {
       "room13_title": "Raum 13: Kinderbereich", "room13_desc": "Kriechtunnel, Kletterwand und eine interaktive Karte, um Kindern die Bedeutung der Verteidigung der Heimat beizubringen."
     },
     "footer": { "f1_title": "Sicherheit", "f1_desc": "Höchste Standards", "f2_title": "Restaurants", "f2_desc": "Einzigartig", "f3_title": "Shops", "f3_desc": "Souvenirs", "f4_title": "Guides", "f4_desc": "Informativ", "f5_title": "Barrierefreiheit", "f5_desc": "Für alle zugänglich" },
+    "contact": {
+      "address_text": "Fifth Settlement, Zweiter Sektor, 200 Meter von der 90th North und 90th South Straße entfernt, nach dem Petro Sport Stadion, neben dem Dusit Thani Lakeview Hotel und Qasr Al-Kababgy."
+    },
     "presentation": {
       "title": "Visuelle Museumspräsentation",
       "subtitle": "Erleben Sie die Größe der ägyptischen Geschichte in einer atemberaubenden filmischen Darstellung"
@@ -359,7 +365,7 @@ window.translations = {
       "subtitle": "Un viaje por 7000 años", 
       "description": "Descubre las grandes obras maestras de la civilización.", 
       "cta": "Empieza ahora" 
-    }, "info_bar": { "open_title": "Abierto todos los días", "open_desc": "9:00 AM - 6:00 PM", "hologram_title": "Holograma Interactivo", "hologram_desc": "12 salas", "artifacts_title": "+100,000", "artifacts_desc": "Artefactos", "museum_title": "El museo más grande", "museum_desc": "500,000 m²" }, "hologram": { "title": "Holograma", "subtitle": "13 salas interactivas", "description": "Viaja en el tiempo con tecnología holográfica.", "cta": "Explorar" }, "discover": { "title": "Descubre el museo", "c1_title": "Eventos", "c1_desc": "Experiencia visual", "c2_title": "Jardines", "c2_desc": "Espacios verdes", "c3_title": "Exposiciones", "c3_desc": "Historia", "c4_title": "Artefactos", "c4_desc": "Tesoros", "c5_title": "Gran Salón", "c5_desc": "Corazón de la civilización" }, "booking": { "title": "Reserva tu entrada", "subtitle": "Elige fecha y tipo", "date": "Fecha", "type": "Tipo", "quantity": "Cantidad", "cta": "Reservar", "p1_name": "Visitante Egipcio", "p1_price": "EGP 30", "p2_name": "Estudiante Egipcio", "p2_price": "EGP 10", "p3_name": "Visitante Extranjero", "p3_price": "EGP 550", "p4_name": "Estudiante Extranjero", "p4_price": "EGP 275" },
+    }, "info_bar": { "open_title": "Abierto todos los días", "open_desc": "9:00 AM - 6:00 PM", "hologram_title": "Holograma Interactivo", "hologram_desc": "15 salas", "artifacts_title": "+100,000", "artifacts_desc": "Artefactos", "museum_title": "El museo más grande", "museum_desc": "500,000 m²" }, "hologram": { "title": "Holograma", "subtitle": "15 salas interactivas", "description": "Viaja en el tiempo con tecnología holográfica.", "cta": "Explorar" }, "discover": { "title": "Descubre el museo", "c1_title": "Eventos", "c1_desc": "Experiencia visual", "c2_title": "Jardines", "c2_desc": "Espacios verdes", "c3_title": "Exposiciones", "c3_desc": "Historia", "c4_title": "Artefactos", "c4_desc": "Tesoros", "c5_title": "Gran Salón", "c5_desc": "Corazón de la civilización" }, "booking": { "title": "Reserva tu entrada", "subtitle": "Elige fecha y tipo", "date": "Fecha", "type": "Tipo", "quantity": "Cantidad", "cta": "Reservar", "p1_name": "Visitante Egipcio", "p1_price": "EGP 30", "p2_name": "Estudiante Egipcio", "p2_price": "EGP 10", "p3_name": "Visitante Extranjero", "p3_price": "EGP 550", "p4_name": "Estudiante Extranjero", "p4_price": "EGP 275" },
     "gallery": { 
       "title": "Salas del Museo - Un viaje por la historia", 
       "intro": "Comenzamos nuestro viaje dentro del museo... donde cada sala cuenta un capítulo de la historia del ejército egipcio.",
@@ -378,6 +384,9 @@ window.translations = {
       "room13_title": "Sala 13: Área Infantil", "room13_desc": "Túnel de gateo, pared de escalada y un mapa interactivo para enseñar a los niños el significado de defender la patria."
     },
     "footer": { "f1_title": "Seguridad", "f1_desc": "Estándares altos", "f2_title": "Restaurantes", "f2_desc": "Experiencia única", "f3_title": "Regalos", "f3_desc": "Recuerdos", "f4_title": "Guías", "f4_desc": "Información", "f5_title": "Accesibilidad", "f5_desc": "Instalaciones" },
+    "contact": {
+      "address_text": "Fifth Settlement, Segundo Sector, a 200 metros de las calles 90 Norte y 90 Sur, después del Estadio Petro Sport, junto al Hotel Dusit Thani Lakeview y Qasr Al-Kababgy."
+    },
     "presentation": {
       "title": "Presentación Visual del Museo",
       "subtitle": "Experimente la grandeza de la historia egipcia en una impresionante exhibición cinematográfica"
@@ -399,7 +408,7 @@ window.translations = {
       "subtitle": "Un viaggio di 7000 anni", 
       "description": "Scopri i grandi capolavori.", 
       "cta": "Inizia ora" 
-    }, "info_bar": { "open_title": "Aperto tutti i giorni", "open_desc": "9:00 - 18:00", "hologram_title": "Ologramma", "hologram_desc": "12 sale", "artifacts_title": "+100.000", "artifacts_desc": "Reperti", "museum_title": "Il più grande", "museum_desc": "500.000 m²" }, "hologram": { "title": "Ologramma", "subtitle": "13 sale", "description": "Viaggia nel tempo.", "cta": "Esplora" }, "discover": { "title": "Scopri il museo", "c1_title": "Eventi", "c1_desc": "Visivi", "c2_title": "Giardini", "c2_desc": "Verdi", "c3_title": "Mostre", "c3_desc": "Storia", "c4_title": "Reperti", "c4_desc": "Tesori", "c5_title": "Grande Sala", "c5_desc": "Inizio" }, "booking": { "title": "Prenota", "subtitle": "Scegli data", "date": "Data", "type": "Tipo", "quantity": "Quantità", "cta": "Prenota", "p1_name": "Visitatore Egiziano", "p1_price": "EGP 30", "p2_name": "Studente Egiziano", "p2_price": "EGP 10", "p3_name": "Visitatore Straniero", "p3_price": "EGP 550", "p4_name": "Studente Straniero", "p4_price": "EGP 275" },
+    }, "info_bar": { "open_title": "Aperto tutti i giorni", "open_desc": "9:00 - 18:00", "hologram_title": "Ologramma", "hologram_desc": "15 sale", "artifacts_title": "+100.000", "artifacts_desc": "Reperti", "museum_title": "Il più grande", "museum_desc": "500.000 m²" }, "hologram": { "title": "Ologramma", "subtitle": "15 sale", "description": "Viaggia nel tempo.", "cta": "Esplora" }, "discover": { "title": "Scopri il museo", "c1_title": "Eventi", "c1_desc": "Visivi", "c2_title": "Giardini", "c2_desc": "Verdi", "c3_title": "Mostre", "c3_desc": "Storia", "c4_title": "Reperti", "c4_desc": "Tesori", "c5_title": "Grande Sala", "c5_desc": "Inizio" }, "booking": { "title": "Prenota", "subtitle": "Scegli data", "date": "Data", "type": "Tipo", "quantity": "Quantità", "cta": "Prenota", "p1_name": "Visitatore Egiziano", "p1_price": "EGP 30", "p2_name": "Studente Egiziano", "p2_price": "EGP 10", "p3_name": "Visitatore Straniero", "p3_price": "EGP 550", "p4_name": "Studente Straniero", "p4_price": "EGP 275" },
     "gallery": { 
       "title": "Sale del Museo - Un viaggio nella storia", 
       "intro": "Iniziamo il nostro viaggio all'interno del museo... dove ogni sala racconta un capitolo della storia dell'esercito egiziano.",
@@ -418,6 +427,9 @@ window.translations = {
       "room13_title": "Sala 13: Area Bambini", "room13_desc": "Tunnel strisciante, parete da arrampicata e una mappa interattiva per insegnare ai bambini il significato di difendere la patria."
     },
     "footer": { "f1_title": "Sicurezza", "f1_desc": "Alta", "f2_title": "Ristoranti", "f2_desc": "Unici", "f3_title": "Regali", "f3_desc": "Ricordi", "f4_title": "Guide", "f4_desc": "Ricche", "f5_title": "Accessibilità", "f5_desc": "Facile" },
+    "contact": {
+      "address_text": "Fifth Settlement, Secondo Settore, a 200 metri dalle strade 90 Nord e 90 Sud, dopo lo Stadio Petro Sport, accanto all'Hotel Dusit Thani Lakeview e al Qasr Al-Kababgy."
+    },
     "presentation": {
       "title": "Presentazione Visiva del Museo",
       "subtitle": "Vivi la grandiosità della storia egiziana in uno splendido spettacolo cinematografico"
@@ -439,7 +451,7 @@ window.translations = {
       "subtitle": "7000年的历史之旅", 
       "description": "探索古埃及文明。", 
       "cta": "立即开始" 
-    }, "info_bar": { "open_title": "每天开放", "open_desc": "9:00 - 18:00", "hologram_title": "全息投影", "hologram_desc": "12个展厅", "artifacts_title": "+100,000", "artifacts_desc": "文物", "museum_title": "最大的博物馆", "museum_desc": "500,000 平方米" }, "hologram": { "title": "历史全息投影", "subtitle": "13个互动展厅", "description": "全息技术带你穿越时空。", "cta": "探索展厅" }, "discover": { "title": "探索博物馆", "c1_title": "活动", "c1_desc": "视觉体验", "c2_title": "花园", "c2_desc": "绿地", "c3_title": "展览", "c3_desc": "历史", "c4_title": "文物", "c4_desc": "珍宝", "c5_title": "大厅", "c5_desc": "文明之心" }, "booking": { "title": "预订门票", "subtitle": "选择日期和门票类型", "date": "日期", "type": "类型", "quantity": "数量", "cta": "预订", "p1_name": "埃及游客", "p1_price": "EGP 30", "p2_name": "埃及学生", "p2_price": "EGP 10", "p3_name": "外国游客", "p3_price": "EGP 550", "p4_name": "外国学生", "p4_price": "EGP 275" },
+    }, "info_bar": { "open_title": "每天开放", "open_desc": "9:00 - 18:00", "hologram_title": "全息投影", "hologram_desc": "15个展厅", "artifacts_title": "+100,000", "artifacts_desc": "文物", "museum_title": "最大的博物馆", "museum_desc": "500,000 平方米" }, "hologram": { "title": "历史全息投影", "subtitle": "15个互动展厅", "description": "全息技术带你穿越时空。", "cta": "探索展厅" }, "discover": { "title": "探索博物馆", "c1_title": "活动", "c1_desc": "视觉体验", "c2_title": "花园", "c2_desc": "绿地", "c3_title": "展览", "c3_desc": "历史", "c4_title": "文物", "c4_desc": "珍宝", "c5_title": "大厅", "c5_desc": "文明之心" }, "booking": { "title": "预订门票", "subtitle": "选择日期和门票类型", "date": "日期", "type": "类型", "quantity": "数量", "cta": "预订", "p1_name": "埃及游客", "p1_price": "EGP 30", "p2_name": "埃及学生", "p2_price": "EGP 10", "p3_name": "外国游客", "p3_price": "EGP 550", "p4_name": "外国学生", "p4_price": "EGP 275" },
     "gallery": { 
       "title": "博物馆展厅 - 历史之旅", 
       "intro": "我们开始在博物馆内的旅程……每个展厅都讲述了埃及军队历史的一个章节。",
@@ -458,6 +470,9 @@ window.translations = {
       "room13_title": "展厅 13: 儿童区", "room13_desc": "爬行隧道、攀岩墙和互动地图，教导孩子们保卫祖国的意义。"
     },
     "footer": { "f1_title": "安全", "f1_desc": "高标准", "f2_title": "餐厅", "f2_desc": "美食", "f3_title": "礼品", "f3_desc": "纪念品", "f4_title": "导游", "f4_desc": "信息丰富", "f5_title": "无障碍", "f5_desc": "设施完善" },
+    "contact": {
+      "address_text": "第五区，第二区，距离90北街和90南街200米，在Petro Sport体育场之后，毗邻都喜天丽湖景酒店和Qasr Al-Kababgy。"
+    },
     "presentation": {
       "title": "博物馆视觉演示",
       "subtitle": "在震撼的电影画面中体验埃及历史的宏伟"
@@ -479,7 +494,7 @@ window.translations = {
       "subtitle": "7000年の旅", 
       "description": "古代エジプト文明を探索する。", 
       "cta": "今すぐ開始" 
-    }, "info_bar": { "open_title": "毎日営業", "open_desc": "9:00 - 18:00", "hologram_title": "ホログラム", "hologram_desc": "12の部屋", "artifacts_title": "+100,000", "artifacts_desc": "遺物", "museum_title": "最大の博物館", "museum_desc": "500,000 m²" }, "hologram": { "title": "歴史ホログラム", "subtitle": "13のインタラクティブルーム", "description": "ホログラム技術で時間を旅する。", "cta": "探索する" }, "discover": { "title": "博物館を発見する", "c1_title": "イベント", "c1_desc": "視覚体験", "c2_title": "庭園", "c2_desc": "緑地", "c3_title": "展示", "c3_desc": "歴史", "c4_title": "遺物", "c4_desc": "宝物", "c5_title": "大広間", "c5_desc": "文明の心" }, "booking": { "title": "チケットを予約", "subtitle": "日付と種類を選択", "date": "日付", "type": "種類", "quantity": "数量", "cta": "予約する", "p1_name": "エジプト人訪問者", "p1_price": "EGP 30", "p2_name": "エジプト人学生", "p2_price": "EGP 10", "p3_name": "外国人訪問者", "p3_price": "EGP 550", "p4_name": "外国人学生", "p4_price": "EGP 275" },
+    }, "info_bar": { "open_title": "毎日営業", "open_desc": "9:00 - 18:00", "hologram_title": "ホログラム", "hologram_desc": "15の部屋", "artifacts_title": "+100,000", "artifacts_desc": "遺物", "museum_title": "最大の博物館", "museum_desc": "500,000 m²" }, "hologram": { "title": "歴史ホログラム", "subtitle": "15のインタラクティブルーム", "description": "ホログラム技術で時間を旅する。", "cta": "探索する" }, "discover": { "title": "博物館を発見する", "c1_title": "イベント", "c1_desc": "視覚体験", "c2_title": "庭園", "c2_desc": "緑地", "c3_title": "展示", "c3_desc": "歴史", "c4_title": "遺物", "c4_desc": "宝物", "c5_title": "大広間", "c5_desc": "文明の心" }, "booking": { "title": "チケットを予約", "subtitle": "日付と種類を選択", "date": "日付", "type": "種類", "quantity": "数量", "cta": "予約する", "p1_name": "エジプト人訪問者", "p1_price": "EGP 30", "p2_name": "エジプト人学生", "p2_price": "EGP 10", "p3_name": "外国人訪問者", "p3_price": "EGP 550", "p4_name": "外国人学生", "p4_price": "EGP 275" },
     "gallery": { 
       "title": "博物館の展示室 - 歴史への旅", 
       "intro": "博物館の中での旅を始めましょう。各部屋はエジプト軍の歴史の一章を語っています。",
@@ -498,6 +513,9 @@ window.translations = {
       "room13_title": "展示室 13: 子供用エリア", "room13_desc": "クロールトンネル、クライミングウォール、および子供たちに祖国を守る意味を教えるためのインタラクティブマップ。"
     },
     "footer": { "f1_title": "安全", "f1_desc": "高水準", "f2_title": "レストラン", "f2_desc": "ユニーク", "f3_title": "ギフト", "f3_desc": "お土産", "f4_title": "ガイド", "f4_desc": "情報豊富", "f5_title": "アクセシビリティ", "f5_desc": "設備完備" },
+    "contact": {
+      "address_text": "フィフスセツルメント、第2セクター、90番北通りと90番南通りから200メートル、ペトロスポーツスタジアムの先、ドゥシットタニレイクビューホテルとカスル・アル＝カバブジの隣。"
+    },
     "presentation": {
       "title": "博物館ビジュアルプレゼンテーション",
       "subtitle": "見事な映画的ディスプレイでエジプトの歴史の壮大さを体験してください"
@@ -519,7 +537,7 @@ window.translations = {
       "subtitle": "Путешествие длиной в 7000 лет", 
       "description": "Откройте для себя шедевры древнего Египта.", 
       "cta": "Начать" 
-    }, "info_bar": { "open_title": "Открыто ежедневно", "open_desc": "9:00 - 18:00", "hologram_title": "Голограмма", "hologram_desc": "12 залов", "artifacts_title": "+100,000", "artifacts_desc": "Артефакты", "museum_title": "Крупнейший музей", "museum_desc": "500,000 кв.м" }, "hologram": { "title": "Голограмма", "subtitle": "13 залов", "description": "Путешествие во времени.", "cta": "Исследовать" }, "discover": { "title": "Откройте музей", "c1_title": "События", "c1_desc": "Визуально", "c2_title": "Сады", "c2_desc": "Зелень", "c3_title": "Выставки", "c3_desc": "История", "c4_title": "Артефакты", "c4_desc": "Сокровища", "c5_title": "Большой зал", "c5_desc": "Сердце" }, "booking": { "title": "Забронировать", "subtitle": "Выберите дату", "date": "Дата", "type": "Тип", "quantity": "Количество", "cta": "Забронировать", "p1_name": "Египетский посетитель", "p1_price": "EGP 30", "p2_name": "Египетский студент", "p2_price": "EGP 10", "p3_name": "Иностранный посетитель", "p3_price": "EGP 550", "p4_name": "Иностранный студент", "p4_price": "EGP 275" },
+    }, "info_bar": { "open_title": "Открыто ежедневно", "open_desc": "9:00 - 18:00", "hologram_title": "Голограмма", "hologram_desc": "15 залов", "artifacts_title": "+100,000", "artifacts_desc": "Артефакты", "museum_title": "Крупнейший музей", "museum_desc": "500,000 кв.м" }, "hologram": { "title": "Голограмма", "subtitle": "15 залов", "description": "Путешествие во времени.", "cta": "Исследовать" }, "discover": { "title": "Откройте музей", "c1_title": "События", "c1_desc": "Визуально", "c2_title": "Сады", "c2_desc": "Зелень", "c3_title": "Выставки", "c3_desc": "История", "c4_title": "Артефакты", "c4_desc": "Сокровища", "c5_title": "Большой зал", "c5_desc": "Сердце" }, "booking": { "title": "Забронировать", "subtitle": "Выберите дату", "date": "Дата", "type": "Тип", "quantity": "Количество", "cta": "Забронировать", "p1_name": "Египетский посетитель", "p1_price": "EGP 30", "p2_name": "Египетский студент", "p2_price": "EGP 10", "p3_name": "Иностранный посетитель", "p3_price": "EGP 550", "p4_name": "Иностранный студент", "p4_price": "EGP 275" },
     "gallery": { 
       "title": "Залы музея - Путешествие сквозь историю", 
       "intro": "Мы начинаем наше путешествие внутри музея... где каждый зал рассказывает главу истории египетской армии.",
@@ -538,6 +556,9 @@ window.translations = {
       "room13_title": "Зал 13: Детская Зона", "room13_desc": "Туннель для ползания, стена для скалолазания и интерактивная карта, чтобы научить детей значению защиты родины."
     },
     "footer": { "f1_title": "Безопасность", "f1_desc": "Высокая", "f2_title": "Рестораны", "f2_desc": "Вкус", "f3_title": "Сувениры", "f3_desc": "Память", "f4_title": "Гиды", "f4_desc": "Интересно", "f5_title": "Доступность", "f5_desc": "Удобно" },
+    "contact": {
+      "address_text": "Пятое поселение, Второй сектор, 200 метров от улиц 90 Северная и 90 Южная, после стадиона Петро Спорт, рядом с отелем Dusit Thani Lakeview и Qasr Al-Kababgy."
+    },
     "presentation": {
       "title": "Визуальная презентация музея",
       "subtitle": "Почувствуйте величие египетской истории в потрясающем кинематографическом представлении"
@@ -559,7 +580,7 @@ window.translations = {
       "subtitle": "7000 yıllık yolculuk", 
       "description": "Eski Mısır medeniyetini keşfedin.", 
       "cta": "Başla" 
-    }, "info_bar": { "open_title": "Her gün açık", "open_desc": "9:00 - 18:00", "hologram_title": "Hologram", "hologram_desc": "12 oda", "artifacts_title": "+100.000", "artifacts_desc": "Eserler", "museum_title": "En büyük müze", "museum_desc": "500.000 m²" }, "hologram": { "title": "Hologram", "subtitle": "13 etkileşimli oda", "description": "Zamanda yolculuk.", "cta": "Keşfet" }, "discover": { "title": "Müzeyi Keşfet", "c1_title": "Etkinlikler", "c1_desc": "Görsel deneyim", "c2_title": "Bahçeler", "c2_desc": "Yeşil alanlar", "c3_title": "Sergiler", "c3_desc": "Tarih", "c4_title": "Eserler", "c4_desc": "Hazineler", "c5_title": "Büyük Salon", "c5_desc": "Medeniyetin kalbi" }, "booking": { "title": "Bilet Al", "subtitle": "Tarih seç", "date": "Tarih", "type": "Tür", "quantity": "Adet", "cta": "Al", "p1_name": "Mısırlı Ziyaretçi", "p1_price": "EGP 30", "p2_name": "Mısırlı Öğrenci", "p2_price": "EGP 10", "p3_name": "Yabancı Ziyaretçi", "p3_price": "EGP 550", "p4_name": "Yabancı Öğrenci", "p4_price": "EGP 275" },
+    }, "info_bar": { "open_title": "Her gün açık", "open_desc": "9:00 - 18:00", "hologram_title": "Hologram", "hologram_desc": "15 oda", "artifacts_title": "+100.000", "artifacts_desc": "Eserler", "museum_title": "En büyük müze", "museum_desc": "500.000 m²" }, "hologram": { "title": "Hologram", "subtitle": "15 etkileşimli oda", "description": "Zamanda yolculuk.", "cta": "Keşfet" }, "discover": { "title": "Müzeyi Keşfet", "c1_title": "Etkinlikler", "c1_desc": "Görsel deneyim", "c2_title": "Bahçeler", "c2_desc": "Yeşil alanlar", "c3_title": "Sergiler", "c3_desc": "Tarih", "c4_title": "Eserler", "c4_desc": "Hazineler", "c5_title": "Büyük Salon", "c5_desc": "Medeniyetin kalbi" }, "booking": { "title": "Bilet Al", "subtitle": "Tarih seç", "date": "Tarih", "type": "Tür", "quantity": "Adet", "cta": "Al", "p1_name": "Mısırlı Ziyaretçi", "p1_price": "EGP 30", "p2_name": "Mısırlı Öğrenci", "p2_price": "EGP 10", "p3_name": "Yabancı Ziyaretçi", "p3_price": "EGP 550", "p4_name": "Yabancı Öğrenci", "p4_price": "EGP 275" },
     "gallery": { 
       "title": "Müze Odaları - Tarih Boyunca Bir Yolculuk", 
       "intro": "Müze içindeki yolculuğumuza başlıyoruz... her oda Mısır ordusu tarihinin bir bölümünü anlatıyor.",
@@ -578,6 +599,9 @@ window.translations = {
       "room13_title": "Oda 13: Çocuk Alanı", "room13_desc": "Çocuklara vatanı savunmanın anlamını öğretmek için emekleme tüneli, tırmanma duvarı ve interaktif bir harita."
     },
     "footer": { "f1_title": "Güvenlik", "f1_desc": "Yüksek", "f2_title": "Restoranlar", "f2_desc": "Lezzet", "f3_title": "Hediyelik", "f3_desc": "Anı", "f4_title": "Rehberler", "f4_desc": "Bilgi", "f5_title": "Erişilebilirlik", "f5_desc": "Kolay" },
+    "contact": {
+      "address_text": "Fifth Settlement, İkinci Sektör, 90 Kuzey ve 90 Güney caddelerinden 200 metre, Petro Sport Stadyumu'ndan sonra, Dusit Thani Lakeview Hotel ve Qasr Al-Kababgy'nin yanında."
+    },
     "presentation": {
       "title": "Müze Görsel Sunumu",
       "subtitle": "Mısır tarihinin görkemini çarpıcı bir sinematik gösterimle deneyimleyin"

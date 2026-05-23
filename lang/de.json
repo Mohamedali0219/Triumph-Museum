@@ -19,7 +19,7 @@
     "open_title": "T\u00e4glich ge\u00f6ffnet",
     "open_desc": "9:00 - 18:00 Uhr",
     "hologram_title": "Interaktives Hologramm",
-    "hologram_desc": "12 R\u00e4ume",
+    "hologram_desc": "15 R\u00e4ume",
     "artifacts_title": "Mehr als 100.000",
     "artifacts_desc": "Einzigartige Artefakte",
     "museum_title": "Gr\u00f6\u00dftes arch\u00e4ologisches Museum",
@@ -27,7 +27,7 @@
   },
   "hologram": {
     "title": "Historisches Hologramm",
-    "subtitle": "Erkunden Sie 13 R\u00e4ume",
+    "subtitle": "Erkunden Sie 15 R\u00e4ume",
     "description": "Die Hologramm-Technologie nimmt Sie mit auf eine Zeitreise durch die Kapitel der \u00e4gyptischen Armeegeschichte.",
     "cta": "R\u00e4ume erkunden"
   },
@@ -101,6 +101,9 @@
     "f4_desc": "Informativ",
     "f5_title": "Barrierefreiheit",
     "f5_desc": "F\u00fcr alle zug\u00e4nglich"
+  },
+  "contact": {
+    "address_text": "Fifth Settlement, Zweiter Sektor, 200 Meter von der 90th North und 90th South Stra\u00dfe entfernt, nach dem Petro Sport Stadion, neben dem Dusit Thani Lakeview Hotel und Qasr Al-Kababgy."
   },
   "presentation": {
     "title": "Visuelle Museumspr\u00e4sentation",

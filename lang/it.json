@@ -19,7 +19,7 @@
     "open_title": "Aperto tutti i giorni",
     "open_desc": "9:00 - 18:00",
     "hologram_title": "Esperienza Ologramma Interattiva",
-    "hologram_desc": "12 sale interattive",
+    "hologram_desc": "15 sale interattive",
     "artifacts_title": "+100.000",
     "artifacts_desc": "Reperti unici",
     "museum_title": "Il pi\u00f9 grande museo archeologico",
@@ -27,7 +27,7 @@
   },
   "hologram": {
     "title": "Ologramma Storico",
-    "subtitle": "13 sale interattive",
+    "subtitle": "15 sale interattive",
     "description": "Viaggia nel tempo con la tecnologia olografica attraverso la storia dell'esercito egiziano.",
     "cta": "Esplora"
   },
@@ -101,6 +101,9 @@
     "f4_desc": "Informazioni ricche",
     "f5_title": "Accessibilit\u00e0",
     "f5_desc": "Strutture accessibili"
+  },
+  "contact": {
+    "address_text": "Fifth Settlement, Secondo Settore, a 200 metri dalle strade 90 Nord e 90 Sud, dopo lo Stadio Petro Sport, accanto all'Hotel Dusit Thani Lakeview e al Qasr Al-Kababgy."
   },
   "presentation": {
     "title": "Presentazione Visiva del Museo",

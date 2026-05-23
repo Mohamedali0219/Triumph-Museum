@@ -19,7 +19,7 @@
     "open_title": "Abierto todos los d\u00edas",
     "open_desc": "9:00 AM - 6:00 PM",
     "hologram_title": "Holograma Interactivo",
-    "hologram_desc": "12 salas interactivas",
+    "hologram_desc": "15 salas interactivas",
     "artifacts_title": "+100,000",
     "artifacts_desc": "Artefactos \u00fanicos",
     "museum_title": "El museo m\u00e1s grande del mundo",
@@ -27,7 +27,7 @@
   },
   "hologram": {
     "title": "Holograma Hist\u00f3rico",
-    "subtitle": "13 salas interactivas",
+    "subtitle": "15 salas interactivas",
     "description": "Viaja en el tiempo con tecnolog\u00eda hologr\u00e1fica a trav\u00e9s de la historia del ej\u00e9rcito egipcio.",
     "cta": "Explorar"
   },
@@ -101,6 +101,9 @@
     "f4_desc": "Informaci\u00f3n",
     "f5_title": "Accesibilidad",
     "f5_desc": "Instalaciones"
+  },
+  "contact": {
+    "address_text": "Fifth Settlement, Segundo Sector, a 200 metros de las calles 90 Norte y 90 Sur, despu\u00e9s del Estadio Petro Sport, junto al Hotel Dusit Thani Lakeview y Qasr Al-Kababgy."
   },
   "presentation": {
     "title": "Presentaci\u00f3n Visual del Museo",

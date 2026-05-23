@@ -1197,14 +1197,33 @@ body[dir="ltr"] .booking-main-btn i {
 
 @media (max-width: 480px) {
   .gallery-grid { grid-template-columns: repeat(2, 1fr); gap: 0.8rem; padding: 0 0.8rem; }
-  .gallery-img-wrapper { height: 130px; }
-  .gallery-info { padding: 0.8rem 0.5rem; }
+  .gallery-img-wrapper { height: 160px; }
+  .gallery-info { padding: 0.8rem 0.6rem; }
   .gallery-info h4 { font-size: 0.85rem; margin-bottom: 0.4rem; }
-  .gallery-info p { font-size: 0.7rem; line-height: 1.3; }
+  .gallery-info p { font-size: 0.75rem; line-height: 1.4; }
+
+  .info-bar-inner { grid-template-columns: 1fr; gap: 1.5rem; padding: 1.5rem 1rem; }
+  .info-item { flex-direction: row; justify-content: flex-start; text-align: left; gap: 0.8rem; padding: 0; }
+  body[dir="rtl"] .info-item { text-align: right; }
+  .info-icon { font-size: 1.3rem; }
+  .info-text { flex: 1; }
+  .info-item h4 { font-size: 0.85rem; }
+  .info-item p { font-size: 0.75rem; }
   
   .tickets-display { flex-direction: column; gap: 1.5rem; }
   
   .features-bar { grid-template-columns: 1fr; }
   .ticket-mockup { flex-direction: column; }
   .ticket-left { border-right: none; border-bottom: 2px dashed #cbd5e1; }
+
+  .hero-title { font-size: 1.8rem; }
+  .hero-subtitle { font-size: 1.2rem; }
+  .hero-desc { font-size: 0.9rem; }
+}
+
+@media (max-width: 360px) {
+  .gallery-grid { grid-template-columns: 1fr; gap: 1rem; padding: 0 1rem; }
+  .gallery-img-wrapper { height: 200px; }
+  .section-title-center { font-size: 1.3rem; }
+  .section-subtitle-center { font-size: 0.85rem; }
 }

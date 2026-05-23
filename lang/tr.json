@@ -19,7 +19,7 @@
     "open_title": "Her g\u00fcn a\u00e7\u0131k",
     "open_desc": "9:00 - 18:00",
     "hologram_title": "Etkile\u015fimli Hologram Deneyimi",
-    "hologram_desc": "12 etkile\u015fimli oda",
+    "hologram_desc": "15 etkile\u015fimli oda",
     "artifacts_title": "100.000'den fazla",
     "artifacts_desc": "Benzersiz eserler",
     "museum_title": "D\u00fcnyan\u0131n en b\u00fcy\u00fck arkeoloji m\u00fczesi",
@@ -27,7 +27,7 @@
   },
   "hologram": {
     "title": "Tarihi Hologram",
-    "subtitle": "13 etkile\u015fimli oda",
+    "subtitle": "15 etkile\u015fimli oda",
     "description": "Hologram teknolojisi sizi M\u0131s\u0131r ordusunun kurulu\u015fundan modern d\u00f6neme kadar olan tarihinde bir yolculu\u011fa \u00e7\u0131kar\u0131yor.",
     "cta": "Odalar\u0131 ke\u015ffet"
   },
@@ -101,6 +101,9 @@
     "f4_desc": "Bilgi dolu",
     "f5_title": "Eri\u015filebilirlik",
     "f5_desc": "Kolay eri\u015fim"
+  },
+  "contact": {
+    "address_text": "Fifth Settlement, \u0130kinci Sekt\u00f6r, 90 Kuzey ve 90 G\u00fcney caddelerinden 200 metre, Petro Sport Stadyumu'ndan sonra, Dusit Thani Lakeview Hotel ve Qasr Al-Kababgy'nin yan\u0131nda."
   },
   "presentation": {
     "title": "M\u00fcze G\u00f6rsel Sunumu",

@@ -19,7 +19,7 @@
     "open_title": "\u6bcf\u5929\u5f00\u653e",
     "open_desc": "9:00 - 18:00",
     "hologram_title": "\u4e92\u52a8\u5168\u606f\u6295\u5f71",
-    "hologram_desc": "12\u4e2a\u4e92\u52a8\u5c55\u5385",
+    "hologram_desc": "15\u4e2a\u4e92\u52a8\u5c55\u5385",
     "artifacts_title": "\u8d85\u8fc7100,000\u4ef6",
     "artifacts_desc": "\u72ec\u7279\u6587\u7269",
     "museum_title": "\u4e16\u754c\u6700\u5927\u7684\u8003\u53e4\u535a\u7269\u9986",
@@ -27,7 +27,7 @@
   },
   "hologram": {
     "title": "\u5386\u53f2\u5168\u606f\u6295\u5f71",
-    "subtitle": "13\u4e2a\u4e92\u52a8\u5c55\u5385",
+    "subtitle": "15\u4e2a\u4e92\u52a8\u5c55\u5385",
     "description": "\u5168\u606f\u6280\u672f\u5e26\u4f60\u7a7f\u8d8a\u65f6\u7a7a\uff0c\u4f53\u9a8c\u57c3\u53ca\u519b\u961f\u4ece\u521b\u5efa\u5230\u73b0\u4ee3\u7684\u5386\u53f2\u3002",
     "cta": "\u63a2\u7d22\u5c55\u5385"
   },
@@ -101,6 +101,9 @@
     "f4_desc": "\u4fe1\u606f\u4e30\u5bcc",
     "f5_title": "\u65e0\u969c\u788d",
     "f5_desc": "\u8bbe\u65bd\u5b8c\u5584"
+  },
+  "contact": {
+    "address_text": "\u7b2c\u4e94\u533a\uff0c\u7b2c\u4e8c\u533a\uff0c\u8ddd\u79bb90\u5317\u8857\u548c90\u5357\u8857200\u7c73\uff0c\u5728Petro Sport\u4f53\u80b2\u573a\u4e4b\u540e\uff0c\u6bd7\u90bb\u90fd\u559c\u5929\u4e3d\u6e56\u666f\u9152\u5e97\u548cQasr Al-Kababgy\u3002"
   },
   "presentation": {
     "title": "\u535a\u7269\u9986\u89c6\u89c9\u6f14\u793a",

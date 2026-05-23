@@ -19,7 +19,7 @@
     "open_title": "Open Daily",
     "open_desc": "9:00 AM - 6:00 PM",
     "hologram_title": "Interactive Hologram Experience",
-    "hologram_desc": "12 rooms spanning 7000 years",
+    "hologram_desc": "15 rooms spanning 7000 years",
     "artifacts_title": "More than 100,000",
     "artifacts_desc": "Unique artifacts",
     "museum_title": "Largest Archaeological Museum",
@@ -27,7 +27,7 @@
   },
   "hologram": {
     "title": "Historical Hologram",
-    "subtitle": "Explore 13 interactive rooms",
+    "subtitle": "Explore 15 interactive rooms",
     "description": "Hologram technology takes you on a journey through time, living through the chapters of the Egyptian army's history from its founding to the modern era.",
     "cta": "Explore the rooms"
   },
@@ -105,7 +105,7 @@
     "send": "Send Message",
     "info_title": "Contact Information",
     "address_title": "Address",
-    "address_text": "Remaya Square, Cairo-Alexandria Desert Road, Giza, Egypt.",
+    "address_text": "Fifth Settlement, Second Sector, 200 meters from 90th North and 90th South Streets, after Petro Sport Stadium, next to Dusit Thani Lakeview Hotel and Qasr Al-Kababgy.",
     "phone_title": "Phone",
     "email_title": "Email"
   },

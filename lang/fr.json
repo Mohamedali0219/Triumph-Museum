@@ -19,7 +19,7 @@
     "open_title": "Ouvert tous les jours",
     "open_desc": "9h00 - 18h00",
     "hologram_title": "Exp\u00e9rience Holographique Interactive",
-    "hologram_desc": "12 salles interactives",
+    "hologram_desc": "15 salles interactives",
     "artifacts_title": "Plus de 100 000",
     "artifacts_desc": "Artefacts uniques",
     "museum_title": "Le plus grand mus\u00e9e arch\u00e9ologique",
@@ -27,7 +27,7 @@
   },
   "hologram": {
     "title": "Hologramme Historique",
-    "subtitle": "Explorez 13 salles interactives",
+    "subtitle": "Explorez 15 salles interactives",
     "description": "La technologie holographique vous emm\u00e8ne dans un voyage \u00e0 travers le temps, vivant les chapitres de l'histoire de l'arm\u00e9e \u00e9gyptienne de sa fondation \u00e0 l'\u00e8re moderne.",
     "cta": "Explorer les salles"
   },
@@ -101,6 +101,9 @@
     "f4_desc": "Exp\u00e9rience riche",
     "f5_title": "Accessibilit\u00e9",
     "f5_desc": "Installations adapt\u00e9es"
+  },
+  "contact": {
+    "address_text": "Fifth Settlement, Deuxi\u00e8me Secteur, \u00e0 200 m\u00e8tres des rues 90 Nord et 90 Sud, apr\u00e8s le Stade Petro Sport, \u00e0 c\u00f4t\u00e9 de l'H\u00f4tel Dusit Thani Lakeview et du Qasr Al-Kababgy."
   },
   "presentation": {
     "title": "Pr\u00e9sentation Visuelle du Mus\u00e9e",
